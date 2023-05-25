@@ -1,0 +1,5774 @@
+[
+  {
+    "ID": "f3853899",
+    "Palavra": "35652d75",
+    "Enunciado": "_VIÃO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "9969ab3c",
+    "Palavra": "bbba34c5",
+    "Enunciado": "_GUA",
+    "Resposta": "Á"
+  },
+  {
+    "ID": "33178261",
+    "Palavra": "589c8a3d",
+    "Enunciado": "_GACHAR",
+    "Resposta": "A"
+  },
+  {
+    "ID": "7792fadc",
+    "Palavra": "2f2f6940",
+    "Enunciado": "_LFAFA",
+    "Resposta": "A"
+  },
+  {
+    "ID": "53c5e851",
+    "Palavra": "a57dc1fc",
+    "Enunciado": "CH_PÉU",
+    "Resposta": "A"
+  },
+  {
+    "ID": "958de122",
+    "Palavra": "4b27714a",
+    "Enunciado": "CH_VE",
+    "Resposta": "A"
+  },
+  {
+    "ID": "5b4c8002",
+    "Palavra": "0df05fb3",
+    "Enunciado": "X_DREZ",
+    "Resposta": "A"
+  },
+  {
+    "ID": "0eea9048",
+    "Palavra": "0075e33a",
+    "Enunciado": "X_ROPE",
+    "Resposta": "A"
+  },
+  {
+    "ID": "d77fa169",
+    "Palavra": "589c8a3d",
+    "Enunciado": "AG_CHAR",
+    "Resposta": "A"
+  },
+  {
+    "ID": "388e8ca9",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍC_RA",
+    "Resposta": "A"
+  },
+  {
+    "ID": "22c5ac29",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CHOC_LHO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "328f5247",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CHURR_SCO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "7a37885b",
+    "Palavra": "a8bf2f36",
+    "Enunciado": "UNH_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "3348804e",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "BOL_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "3f34a7b0",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CHUV_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "a5a86d14",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍCAR_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "88e0c17f",
+    "Palavra": "4a11be8d",
+    "Enunciado": "_NXADA",
+    "Resposta": "E"
+  },
+  {
+    "ID": "69ac455d",
+    "Palavra": "39de396d",
+    "Enunciado": "_NXAME",
+    "Resposta": "E"
+  },
+  {
+    "ID": "9a60a843",
+    "Palavra": "fafd19ae",
+    "Enunciado": "_STUFAR",
+    "Resposta": "E"
+  },
+  {
+    "ID": "54dc8cff",
+    "Palavra": "2059bcf1",
+    "Enunciado": "_LEFANTE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "455b44d3",
+    "Palavra": "043f814e",
+    "Enunciado": "CH_IRAR",
+    "Resposta": "E"
+  },
+  {
+    "ID": "071ad820",
+    "Palavra": "654301cb",
+    "Enunciado": "CH_GADA",
+    "Resposta": "E"
+  },
+  {
+    "ID": "8c5faef4",
+    "Palavra": "57eda258",
+    "Enunciado": "X_RIFE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "379b3c4d",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CH_IO",
+    "Resposta": ""
+  },
+  {
+    "ID": "a2423db3",
+    "Palavra": "a01defa2",
+    "Enunciado": "DU_NDE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "b5e14844",
+    "Palavra": "2059bcf1",
+    "Enunciado": "EL_FANTE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "48250f5f",
+    "Palavra": "3dcb035a",
+    "Enunciado": "AF_TO",
+    "Resposta": "E"
+  },
+  {
+    "ID": "85388410",
+    "Palavra": "c90f7f06",
+    "Enunciado": "JO_LHO",
+    "Resposta": "E"
+  },
+  {
+    "ID": "ca3f6a1c",
+    "Palavra": "4b27714a",
+    "Enunciado": "CHAV_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "739d3046",
+    "Palavra": "405e44d3",
+    "Enunciado": "CHIFR_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "2a9f9eee",
+    "Palavra": "04707b2c",
+    "Enunciado": "CHICLET_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "fd2f42fb",
+    "Palavra": "97c2308d",
+    "Enunciado": "PEIX_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "3069b542",
+    "Palavra": "1984590f",
+    "Enunciado": "_NFANTIL",
+    "Resposta": "I"
+  },
+  {
+    "ID": "55849e7b",
+    "Palavra": "a3f52de4",
+    "Enunciado": "_NFLÁVEL",
+    "Resposta": "I"
+  },
+  {
+    "ID": "541c2c1d",
+    "Palavra": "6f686ffd",
+    "Enunciado": "_NFORMAÇÃO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "d3da921c",
+    "Palavra": "400bec64",
+    "Enunciado": "_GUANA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "21132c24",
+    "Palavra": "0e90d98c",
+    "Enunciado": "CH_NELO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "dc8ceaeb",
+    "Palavra": "64868fa4",
+    "Enunciado": "X_CARA",
+    "Resposta": "Í"
+  },
+  {
+    "ID": "384ec877",
+    "Palavra": "79e3b16c",
+    "Enunciado": "X_S",
+    "Resposta": "I"
+  },
+  {
+    "ID": "03a45d71",
+    "Palavra": "8fb92589",
+    "Enunciado": "CH_NCHILA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "72c9d5df",
+    "Palavra": "35652d75",
+    "Enunciado": "AV_ÃO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "6fb00f72",
+    "Palavra": "043f814e",
+    "Enunciado": "CHE_RAR",
+    "Resposta": "I"
+  },
+  {
+    "ID": "7ba658ea",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CHE_O",
+    "Resposta": "I"
+  },
+  {
+    "ID": "6e28f810",
+    "Palavra": "878d791c",
+    "Enunciado": "CA_XA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "2ebad39b",
+    "Palavra": "d019042a",
+    "Enunciado": "COREOGRAF_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "67ae8e17",
+    "Palavra": "19b14b3b",
+    "Enunciado": "LAVANDER_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "b2217948",
+    "Palavra": "b1e54622",
+    "Enunciado": "UNICÓRN_O",
+    "Resposta": "I"
+  },
+  {
+    "ID": "c21f4068",
+    "Palavra": "c0f7de5a",
+    "Enunciado": "FAMÍL_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "ff27ebba",
+    "Palavra": "1ae1e456",
+    "Enunciado": "_FENSA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "c4e1c774",
+    "Palavra": "58eaed01",
+    "Enunciado": "_CA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9cee9b5c",
+    "Palavra": "0a2554a8",
+    "Enunciado": "_RCA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "ea97ebfe",
+    "Palavra": "f166340e",
+    "Enunciado": "_FERTA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "3f4c68a3",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "B_LA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "8dfa813c",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CH_CALHO",
+    "Resposta": "O"
+  },
+  {
+    "ID": "47c78cf4",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CH_COLATE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "b3fd1bb0",
+    "Palavra": "3cafc093",
+    "Enunciado": "D_MINÓ",
+    "Resposta": "O"
+  },
+  {
+    "ID": "2db7865a",
+    "Palavra": "032398fa",
+    "Enunciado": "AF_FAR",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9e29197d",
+    "Palavra": "76222800",
+    "Enunciado": "AF_GADO",
+    "Resposta": "O"
+  },
+  {
+    "ID": "8d2fbffb",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CHOC_LATE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9dc8f2fd",
+    "Palavra": "0075e33a",
+    "Enunciado": "XAR_PE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "e2203776",
+    "Palavra": "0788fb30",
+    "Enunciado": "FL_R",
+    "Resposta": "O"
+  },
+  {
+    "ID": "affee7db",
+    "Palavra": "bb983828",
+    "Enunciado": "PROFESS_R",
+    "Resposta": "O"
+  },
+  {
+    "ID": "2fb51588",
+    "Palavra": "e8a94284",
+    "Enunciado": "TROC_",
+    "Resposta": "O"
+  },
+  {
+    "ID": "5be6371d",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CHEI_",
+    "Resposta": "O"
+  },
+  {
+    "ID": "3d26f9e2",
+    "Palavra": "a8bf2f36",
+    "Enunciado": "_NHA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "c5acdad5",
+    "Palavra": "9897d566",
+    "Enunciado": "_NIFORME",
+    "Resposta": "U"
+  },
+  {
+    "ID": "a2011d46",
+    "Palavra": "b1e54622",
+    "Enunciado": "_NICÓRNIO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "e5f9a010",
+    "Palavra": "8df351b3",
+    "Enunciado": "_RUBU",
+    "Resposta": "U"
+  },
+  {
+    "ID": "1d8859aa",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CH_VA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "3f20557f",
+    "Palavra": "3057408f",
+    "Enunciado": "CH_VEIRO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "d76fbd72",
+    "Palavra": "c583af95",
+    "Enunciado": "CH_PETA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "c17a5fa2",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CH_RRASCO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "9d122f3c",
+    "Palavra": "b1373ea7",
+    "Enunciado": "AG_LHA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "af0bfa45",
+    "Palavra": "eb520f94",
+    "Enunciado": "AZ_LEJO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "eaa40bf5",
+    "Palavra": "c0add2b7",
+    "Enunciado": "MACH_CADO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "2355d86b",
+    "Palavra": "fafd19ae",
+    "Enunciado": "EST_FAR",
+    "Resposta": "U"
+  },
+  {
+    "ID": "bf41af58",
+    "Palavra": "c59db6d1",
+    "Enunciado": "CHUCH_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "6e1cc7a2",
+    "Palavra": "b4ad0a33",
+    "Enunciado": "TOF_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "af27d976",
+    "Palavra": "a57dc1fc",
+    "Enunciado": "CHAPÉ_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "3604f959",
+    "Palavra": "9cc04239",
+    "Enunciado": "XAMP_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "b39b5989",
+    "Palavra": "b575ead5",
+    "Enunciado": "__QUIDIFICADOR",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "4400b625",
+    "Palavra": "53838456",
+    "Enunciado": "__GO",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "b74a7d23",
+    "Palavra": "b87ecf3f",
+    "Enunciado": "__NGUA",
+    "Resposta": "LÍ"
+  },
+  {
+    "ID": "b66207cb",
+    "Palavra": "a8d9176d",
+    "Enunciado": "__GUMES",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "d901ee3e",
+    "Palavra": "2059bcf1",
+    "Enunciado": "E__FANTE",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "36844174",
+    "Palavra": "a5bb4e24",
+    "Enunciado": "A__MENTOS",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "ec6dc305",
+    "Palavra": "d8aa294c",
+    "Enunciado": "A__CATE",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "08ac0f0e",
+    "Palavra": "9d736e11",
+    "Enunciado": "A__GRIA",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "9cedcea7",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "BO__",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "4c41b2ff",
+    "Palavra": "6d9c36d9",
+    "Enunciado": "CHU__",
+    "Resposta": "LÉ"
+  },
+  {
+    "ID": "e083d9ec",
+    "Palavra": "5806c58c",
+    "Enunciado": "JAU__",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "994d9cc3",
+    "Palavra": "2ff2de64",
+    "Enunciado": "VIO___",
+    "Resposta": "LÃO"
+  },
+  {
+    "ID": "6404d261",
+    "Palavra": "84434433",
+    "Enunciado": "__XE",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "ea3ea1c4",
+    "Palavra": "97c2308d",
+    "Enunciado": "__IXE",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "769bf541",
+    "Palavra": "f1bc79c9",
+    "Enunciado": "__FOU",
+    "Resposta": "PI"
+  },
+  {
+    "ID": "3bb6683f",
+    "Palavra": "aa952115",
+    "Enunciado": "__LGA",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "1f313a12",
+    "Palavra": "c583af95",
+    "Enunciado": "CHU__TA",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "ecda5a96",
+    "Palavra": "72009258",
+    "Enunciado": "AS__RGO",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "417b30d2",
+    "Palavra": "d34e560a",
+    "Enunciado": "GUE__RDO",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "87525d6b",
+    "Palavra": "773194d6",
+    "Enunciado": "ES__NJA",
+    "Resposta": "PO"
+  },
+  {
+    "ID": "3263cca0",
+    "Palavra": "9cc04239",
+    "Enunciado": "XAM__",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "85ecac5f",
+    "Palavra": "186af6b0",
+    "Enunciado": "LIM__",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "842eee1e",
+    "Palavra": "0075e33a",
+    "Enunciado": "XARO__",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "03b2c058",
+    "Palavra": "00ecf92f",
+    "Enunciado": "GARU__",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "8af16797",
+    "Palavra": "3e90ed96",
+    "Enunciado": "__CA",
+    "Resposta": "VA"
+  },
+  {
+    "ID": "a0f6df4f",
+    "Palavra": "73b78e2b",
+    "Enunciado": "__DRO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "3fd0dcdf",
+    "Palavra": "49ac8942",
+    "Enunciado": "__DRAÇA",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "7aedbf5d",
+    "Palavra": "e7a3b3d9",
+    "Enunciado": "__RE",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "d0ddb92c",
+    "Palavra": "35652d75",
+    "Enunciado": "A__ÃO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "84c58e61",
+    "Palavra": "e2ec96f2",
+    "Enunciado": "A__NTURA",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "47d1ba88",
+    "Palavra": "81587a83",
+    "Enunciado": "A__NTAL",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "554bd13b",
+    "Palavra": "267969f3",
+    "Enunciado": "A__SO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "59b00ea8",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CHU__",
+    "Resposta": "VA"
+  },
+  {
+    "ID": "285f6681",
+    "Palavra": "4b27714a",
+    "Enunciado": "CHA__",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "4c959b5c",
+    "Palavra": "99719e8f",
+    "Enunciado": "TRO___",
+    "Resposta": "VÃO"
+  },
+  {
+    "ID": "b53c23dd",
+    "Palavra": "22d74777",
+    "Enunciado": "CRA__",
+    "Resposta": "VO"
+  },
+  {
+    "ID": "9e697f87",
+    "Palavra": "3449f4c8",
+    "Enunciado": "__REFA",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "999b37c3",
+    "Palavra": "b4ad0a33",
+    "Enunciado": "__FU",
+    "Resposta": "TO"
+  },
+  {
+    "ID": "932592ec",
+    "Palavra": "0bb48434",
+    "Enunciado": "__LEFONE",
+    "Resposta": "TE"
+  },
+  {
+    "ID": "f634f020",
+    "Palavra": "8493af4d",
+    "Enunciado": "__GARELA",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "0f9ecf42",
+    "Palavra": "56daa673",
+    "Enunciado": "A__NGIR",
+    "Resposta": "TI"
+  },
+  {
+    "ID": "9f50cab6",
+    "Palavra": "3290d295",
+    "Enunciado": "U__NSÍLIO",
+    "Resposta": "TE"
+  },
+  {
+    "ID": "9d324d69",
+    "Palavra": "cbde2a6f",
+    "Enunciado": "A__VIDADE",
+    "Resposta": "TI"
+  },
+  {
+    "ID": "eba79d87",
+    "Palavra": "fafd19ae",
+    "Enunciado": "ES__FAR",
+    "Resposta": "TU"
+  },
+  {
+    "ID": "bd113920",
+    "Palavra": "97b42398",
+    "Enunciado": "FI__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "57f2c161",
+    "Palavra": "4294acf9",
+    "Enunciado": "FO__",
+    "Resposta": "TO"
+  },
+  {
+    "ID": "f6a7113e",
+    "Palavra": "8f80af90",
+    "Enunciado": "FES__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "bde50b42",
+    "Palavra": "c583af95",
+    "Enunciado": "CHUPE__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "f0bb9967",
+    "Palavra": "c0add2b7",
+    "Enunciado": "__CHUCADO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "365e4f4a",
+    "Palavra": "7a6725b5",
+    "Enunciado": "__CHADO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "e89cd3c0",
+    "Palavra": "3ba67219",
+    "Enunciado": "__XERICA",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "79492ff8",
+    "Palavra": "bc7d0d20",
+    "Enunciado": "__XILHÃO",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "44149d72",
+    "Palavra": "5227154b",
+    "Enunciado": "A__RGO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "a20d3c4a",
+    "Palavra": "3e338a6a",
+    "Enunciado": "CHA__NÉ",
+    "Resposta": "MI"
+  },
+  {
+    "ID": "7ad0e312",
+    "Palavra": "3cafc093",
+    "Enunciado": "DO__NÓ",
+    "Resposta": "MI"
+  },
+  {
+    "ID": "b6ce2345",
+    "Palavra": "3f29aff9",
+    "Enunciado": "FU__ÇA",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "23ee9357",
+    "Palavra": "f7f6c2dd",
+    "Enunciado": "LES__",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "56c202b5",
+    "Palavra": "39de396d",
+    "Enunciado": "ENXA__",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "dccf7287",
+    "Palavra": "a8d9176d",
+    "Enunciado": "LEGU__S",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "5ee37e31",
+    "Palavra": "ac363f5b",
+    "Enunciado": "ALGE__S",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "452d8b9c",
+    "Palavra": "c78da1ba",
+    "Enunciado": "__CHADURA",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "9143fcad",
+    "Palavra": "5511b747",
+    "Enunciado": "__XINA",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "eff89ccf",
+    "Palavra": "9ac74973",
+    "Enunciado": "__CHADO",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "83529ab8",
+    "Palavra": "096ad43e",
+    "Enunciado": "__ROFA",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "4f67a1a3",
+    "Palavra": "032398fa",
+    "Enunciado": "A__FAR",
+    "Resposta": "FO"
+  },
+  {
+    "ID": "d11e238f",
+    "Palavra": "df2bd38c",
+    "Enunciado": "A__ADOS",
+    "Resposta": "FI"
+  },
+  {
+    "ID": "2cdf7372",
+    "Palavra": "1ae1e456",
+    "Enunciado": "O__NSA",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "dd461094",
+    "Palavra": "3dcb035a",
+    "Enunciado": "A__TO",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "ac30dde3",
+    "Palavra": "eb2dfaee",
+    "Enunciado": "SO__",
+    "Resposta": "FÁ"
+  },
+  {
+    "ID": "834d5d57",
+    "Palavra": "2f2f6940",
+    "Enunciado": "ALFA__",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "e61fd85c",
+    "Palavra": "9e939fa0",
+    "Enunciado": "CHE__",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "547d5241",
+    "Palavra": "c81d93f3",
+    "Enunciado": "BI__",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "24e69ae7",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "__LA",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "6a31713b",
+    "Palavra": "a622ee95",
+    "Enunciado": "__CHOS",
+    "Resposta": "BI"
+  },
+  {
+    "ID": "bce7b202",
+    "Palavra": "c81d93f3",
+    "Enunciado": "__FE",
+    "Resposta": "BI"
+  },
+  {
+    "ID": "87c3ed7d",
+    "Palavra": "47594ea1",
+    "Enunciado": "__RRIFAR",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "be7cb543",
+    "Palavra": "83e07a80",
+    "Enunciado": "A__JUR",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "54fb26b8",
+    "Palavra": "d0bd9390",
+    "Enunciado": "A__CAXI",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "be311d58",
+    "Palavra": "65141544",
+    "Enunciado": "JA__TI",
+    "Resposta": "BU"
+  },
+  {
+    "ID": "35107663",
+    "Palavra": "dd4b5f42",
+    "Enunciado": "JA__TICABA",
+    "Resposta": "BU"
+  },
+  {
+    "ID": "024267ac",
+    "Palavra": "384c199a",
+    "Enunciado": "LAM__R",
+    "Resposta": "BE"
+  },
+  {
+    "ID": "4c0e1be4",
+    "Palavra": "440930aa",
+    "Enunciado": "GOIA__",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "3cf6b3bb",
+    "Palavra": "dd4b5f42",
+    "Enunciado": "JABUTICA__",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "7bc97a29",
+    "Palavra": "bd5c5d37",
+    "Enunciado": "CACHIM__",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "ae47e696",
+    "Palavra": "55b65411",
+    "Enunciado": "__JA",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "80ff8b97",
+    "Palavra": "a3609fc6",
+    "Enunciado": "__NJAS",
+    "Resposta": "NI"
+  },
+  {
+    "ID": "c6482ff3",
+    "Palavra": "ac9b7d54",
+    "Enunciado": "__VE",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "b62ef673",
+    "Palavra": "657ae3fd",
+    "Enunciado": "__VIO",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "541acfb9",
+    "Palavra": "0e90d98c",
+    "Enunciado": "CHI__LO",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "b875254d",
+    "Palavra": "19a5746c",
+    "Enunciado": "DI__SSAURO",
+    "Resposta": "NO"
+  },
+  {
+    "ID": "f3d2005e",
+    "Palavra": "03e5e7df",
+    "Enunciado": "JA__LA",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "1bd0101d",
+    "Palavra": "2b27cab3",
+    "Enunciado": "DA__NE",
+    "Resposta": "NO"
+  },
+  {
+    "ID": "54637023",
+    "Palavra": "3e338a6a",
+    "Enunciado": "CHAMI__",
+    "Resposta": "NÉ"
+  },
+  {
+    "ID": "a8597f61",
+    "Palavra": "5511b747",
+    "Enunciado": "FAXI__",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "63590d98",
+    "Palavra": "3cafc093",
+    "Enunciado": "DOMI__",
+    "Resposta": "NÓ"
+  },
+  {
+    "ID": "1313d091",
+    "Palavra": "2b27cab3",
+    "Enunciado": "DANO__",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "58b56690",
+    "Palavra": "bb88002d",
+    "Enunciado": "__DO",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "3a3116ca",
+    "Palavra": "5534eb40",
+    "Enunciado": "__DO",
+    "Resposta": "DE"
+  },
+  {
+    "ID": "550dbb8b",
+    "Palavra": "19a5746c",
+    "Enunciado": "__NOSSAURO",
+    "Resposta": "DI"
+  },
+  {
+    "ID": "7a6e4883",
+    "Palavra": "3cafc093",
+    "Enunciado": "__MINÓ",
+    "Resposta": "DO"
+  },
+  {
+    "ID": "51cde438",
+    "Palavra": "20b68ecc",
+    "Enunciado": "GOR__RA",
+    "Resposta": "DU"
+  },
+  {
+    "ID": "21284a4b",
+    "Palavra": "c78da1ba",
+    "Enunciado": "FECHA__RA",
+    "Resposta": "DU"
+  },
+  {
+    "ID": "91a449d1",
+    "Palavra": "7f3e399b",
+    "Enunciado": "DIFICUL__DE",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "f5d1ca35",
+    "Palavra": "ef6d6d8b",
+    "Enunciado": "VELOCI__DE",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "b717d6f2",
+    "Palavra": "c51c3529",
+    "Enunciado": "JAR__M",
+    "Resposta": "DI"
+  },
+  {
+    "ID": "18281012",
+    "Palavra": "e4300963",
+    "Enunciado": "LIN__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "77bb573c",
+    "Palavra": "654301cb",
+    "Enunciado": "CHEGA__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "c02b6fbe",
+    "Palavra": "4a11be8d",
+    "Enunciado": "ENXA__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "b7e64daa",
+    "Palavra": "878d791c",
+    "Enunciado": "__IXA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "4ccf6101",
+    "Palavra": "bd5c5d37",
+    "Enunciado": "__CHIMBO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "5d4d6aa9",
+    "Palavra": "b829ec4d",
+    "Enunciado": "__CHOEIRA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "dd790d01",
+    "Palavra": "6613634b",
+    "Enunciado": "__CHORRO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "deb2e4b4",
+    "Palavra": "64868fa4",
+    "Enunciado": "XI__RA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "ee3095fd",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CHO__LHO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "b04ca2fe",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CHO__LATE",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "9a5329a6",
+    "Palavra": "754f1860",
+    "Enunciado": "DES__RGA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "0ebe01c0",
+    "Palavra": "775cd6ef",
+    "Enunciado": "DIS__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "ab79939f",
+    "Palavra": "422ef04d",
+    "Enunciado": "CAS__",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "d03024c7",
+    "Palavra": "5fd9b43d",
+    "Enunciado": "CIN__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "cadbf7db",
+    "Palavra": "73756425",
+    "Enunciado": "MÁGI__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "fba15e66",
+    "Palavra": "7d17669f",
+    "Enunciado": "__CHEIO",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "7954f7c7",
+    "Palavra": "256a6868",
+    "Enunciado": "__SBIFE",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "a9414850",
+    "Palavra": "ccc64cb3",
+    "Enunciado": "__NGUE",
+    "Resposta": "RI"
+  },
+  {
+    "ID": "3bcaa58c",
+    "Palavra": "949d9701",
+    "Enunciado": "__GUA",
+    "Resposta": "RÉ"
+  },
+  {
+    "ID": "acd4384a",
+    "Palavra": "568c91d9",
+    "Enunciado": "A___NJO",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "fdd6f45e",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CHU___SCO",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "f7b5af09",
+    "Palavra": "98dff104",
+    "Enunciado": "GA___FA",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "615b8a3b",
+    "Palavra": "47594ea1",
+    "Enunciado": "BO___FAR",
+    "Resposta": "RRI"
+  },
+  {
+    "ID": "9110c2c8",
+    "Palavra": "29336b23",
+    "Enunciado": "FE___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "c5263fe3",
+    "Palavra": "9fe8c27a",
+    "Enunciado": "GO___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "e0db7504",
+    "Palavra": "6613634b",
+    "Enunciado": "CACHO___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "f5e08b8c",
+    "Palavra": "dc2f293e",
+    "Enunciado": "MACA____",
+    "Resposta": "RRÃO"
+  },
+  {
+    "ID": "b5ff1174",
+    "Palavra": "246f5bc1",
+    "Enunciado": "__RFO",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "6fef5381",
+    "Palavra": "b2c3d387",
+    "Enunciado": "__TO",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "c18d1eca",
+    "Palavra": "9fe8c27a",
+    "Enunciado": "__RRO",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "73015441",
+    "Palavra": "b4699007",
+    "Enunciado": "__RILA",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "b5460875",
+    "Palavra": "589c8a3d",
+    "Enunciado": "A__CHAR",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "65be851b",
+    "Palavra": "b1373ea7",
+    "Enunciado": "A__LHA",
+    "Resposta": "GU"
+  },
+  {
+    "ID": "7b9b6974",
+    "Palavra": "654301cb",
+    "Enunciado": "CHE__DA",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "4a5aa32e",
+    "Palavra": "2f88f7a6",
+    "Enunciado": "RE__DOR",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "c0b6606f",
+    "Palavra": "87ff01af",
+    "Enunciado": "FO___",
+    "Resposta": "GÃO"
+  },
+  {
+    "ID": "2d8e071f",
+    "Palavra": "1c67e79b",
+    "Enunciado": "FI__S",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "eb7e14fe",
+    "Palavra": "2e728b53",
+    "Enunciado": "FO__",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "5ff88541",
+    "Palavra": "53838456",
+    "Enunciado": "LA__",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "b90f6709",
+    "Palavra": "fb1cf7a5",
+    "Enunciado": "A__RA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "26b8c7e4",
+    "Palavra": "1966a1a8",
+    "Enunciado": "A__NHA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "6072eae1",
+    "Palavra": "8df351b3",
+    "Enunciado": "U__BU",
+    "Resposta": "RU"
+  },
+  {
+    "ID": "5921b3c7",
+    "Palavra": "38dfc1ed",
+    "Enunciado": "O__",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "70729b83",
+    "Palavra": "0075e33a",
+    "Enunciado": "XA__PE",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "60dace6d",
+    "Palavra": "57eda258",
+    "Enunciado": "XE__FE",
+    "Resposta": "RI"
+  },
+  {
+    "ID": "c9ba6cd9",
+    "Palavra": "3449f4c8",
+    "Enunciado": "TA__FA",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "a9957eb7",
+    "Palavra": "d43764bf",
+    "Enunciado": "GI__FA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "3ca2b929",
+    "Palavra": "fb1cf7a5",
+    "Enunciado": "ARA__",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "2396e4a7",
+    "Palavra": "72ba3b86",
+    "Enunciado": "CHEI__",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "98bb9aff",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍCA__",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "e9b1f89b",
+    "Palavra": "3057408f",
+    "Enunciado": "CHUVEI__",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "3a2983fb",
+    "Palavra": "946344de",
+    "Enunciado": "__GO",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "fdf3e83b",
+    "Palavra": "0b463aa4",
+    "Enunciado": "__GADOR",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "c3c532e4",
+    "Palavra": "f81a1bb8",
+    "Enunciado": "__RRA",
+    "Resposta": "JA"
+  },
+  {
+    "ID": "2f266ed0",
+    "Palavra": "8ae31d07",
+    "Enunciado": "__RNAL",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "601e34be",
+    "Palavra": "5eef270a",
+    "Enunciado": "MAN__RICÃO",
+    "Resposta": "JE"
+  },
+  {
+    "ID": "51ed34d2",
+    "Palavra": "5455fad9",
+    "Enunciado": "BERIN__LA",
+    "Resposta": "JE"
+  },
+  {
+    "ID": "d7952ca9",
+    "Palavra": "c205f6cd",
+    "Enunciado": "CAN__CA",
+    "Resposta": "JI"
+  },
+  {
+    "ID": "691e6ff6",
+    "Palavra": "8c23e40e",
+    "Enunciado": "SO__",
+    "Resposta": "JA"
+  },
+  {
+    "ID": "7e411e14",
+    "Palavra": "34b7fb79",
+    "Enunciado": "SU__",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "58b3c823",
+    "Palavra": "c417d37f",
+    "Enunciado": "FEI___",
+    "Resposta": "JÃO"
+  },
+  {
+    "ID": "3109ac3c",
+    "Palavra": "83e07a80",
+    "Enunciado": "ABA__R",
+    "Resposta": "JU"
+  },
+  {
+    "ID": "024fd6e6",
+    "Palavra": "eb2dfaee",
+    "Enunciado": "__FÁ",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "d5dfc694",
+    "Palavra": "8c23e40e",
+    "Enunciado": "__JA",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "2983fb65",
+    "Palavra": "34b7fb79",
+    "Enunciado": "__JO",
+    "Resposta": "SU"
+  },
+  {
+    "ID": "a0b453ab",
+    "Palavra": "648c2872",
+    "Enunciado": "__CO",
+    "Resposta": "SA"
+  },
+  {
+    "ID": "05166c96",
+    "Palavra": "3e440dc2",
+    "Enunciado": "A___STIR",
+    "Resposta": "SSI"
+  },
+  {
+    "ID": "6cfe01ad",
+    "Palavra": "9686a76e",
+    "Enunciado": "A___PRAR",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "afa5a51d",
+    "Palavra": "3063d04c",
+    "Enunciado": "MA___GEM",
+    "Resposta": "SSA"
+  },
+  {
+    "ID": "ed1cbcd7",
+    "Palavra": "2c40461c",
+    "Enunciado": "VA___URA",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "9c5c8546",
+    "Palavra": "6368e6c3",
+    "Enunciado": "GAN__",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "7cb67fac",
+    "Palavra": "1ae1e456",
+    "Enunciado": "OFEN__",
+    "Resposta": "SA"
+  },
+  {
+    "ID": "08cb6260",
+    "Palavra": "bb983828",
+    "Enunciado": "PROFE___R",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "684390bc",
+    "Palavra": "f82e9ef6",
+    "Enunciado": "GE___",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "a025bcf2",
+    "Palavra": "64868fa4",
+    "Enunciado": "__CARA",
+    "Resposta": "XÍ"
+  },
+  {
+    "ID": "6338bfe4",
+    "Palavra": "0df05fb3",
+    "Enunciado": "__DREZ",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "4657bc00",
+    "Palavra": "0075e33a",
+    "Enunciado": "__ROPE",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "1805bf93",
+    "Palavra": "57eda258",
+    "Enunciado": "__RIFE",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "9f7758f0",
+    "Palavra": "4a11be8d",
+    "Enunciado": "EN__DA",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "0d2dea6b",
+    "Palavra": "39de396d",
+    "Enunciado": "EN__ME",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "a267614a",
+    "Palavra": "5511b747",
+    "Enunciado": "FA__NA",
+    "Resposta": "XI"
+  },
+  {
+    "ID": "8a30e699",
+    "Palavra": "3ba67219",
+    "Enunciado": "ME__RICA",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "d8f7c9a5",
+    "Palavra": "878d791c",
+    "Enunciado": "CAI__",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "e3364485",
+    "Palavra": "090b892e",
+    "Enunciado": "QUEI__",
+    "Resposta": "XO"
+  },
+  {
+    "ID": "15b29823",
+    "Palavra": "97c2308d",
+    "Enunciado": "PEI__",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "663be421",
+    "Palavra": "61fb860f",
+    "Enunciado": "BRU__",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "2518940e",
+    "Palavra": "7ff710f2",
+    "Enunciado": "__JE",
+    "Resposta": "HO"
+  },
+  {
+    "ID": "a8f9f775",
+    "Palavra": "e93a2d12",
+    "Enunciado": "__LICÓPTERO",
+    "Resposta": "HE"
+  },
+  {
+    "ID": "84ac7c03",
+    "Palavra": "7f5fc194",
+    "Enunciado": "__RTA",
+    "Resposta": "HO"
+  },
+  {
+    "ID": "5ca658ac",
+    "Palavra": "4e7700a8",
+    "Enunciado": "__STÓRIA",
+    "Resposta": "HI"
+  },
+  {
+    "ID": "07ffff73",
+    "Palavra": "0788fb30",
+    "Enunciado": "___R",
+    "Resposta": "FLO"
+  },
+  {
+    "ID": "55a49744",
+    "Palavra": "38c6f2e1",
+    "Enunciado": "___MINGO",
+    "Resposta": "FLA"
+  },
+  {
+    "ID": "e4741502",
+    "Palavra": "8a82c646",
+    "Enunciado": "___UTA",
+    "Resposta": "FLA"
+  },
+  {
+    "ID": "53990a7b",
+    "Palavra": "f8013b95",
+    "Enunciado": "___RESTA",
+    "Resposta": "FLO"
+  },
+  {
+    "ID": "d6e4f310",
+    "Palavra": "04707b2c",
+    "Enunciado": "CHI___TE",
+    "Resposta": "CLE"
+  },
+  {
+    "ID": "3550aeef",
+    "Palavra": "38355f81",
+    "Enunciado": "BI___OTECA",
+    "Resposta": "BLI"
+  },
+  {
+    "ID": "7f51e3f2",
+    "Palavra": "76972b5e",
+    "Enunciado": "DI___MA",
+    "Resposta": "PLO"
+  },
+  {
+    "ID": "207522b0",
+    "Palavra": "a3f52de4",
+    "Enunciado": "IN___VEL",
+    "Resposta": "FLÁ"
+  },
+  {
+    "ID": "ad370e48",
+    "Palavra": "b14b2b4a",
+    "Enunciado": "I___",
+    "Resposta": "GLU"
+  },
+  {
+    "ID": "84a54d5c",
+    "Palavra": "9931d55e",
+    "Enunciado": "___FA",
+    "Resposta": "TRU"
+  },
+  {
+    "ID": "9ae961ff",
+    "Palavra": "bb983828",
+    "Enunciado": "___FESSOR",
+    "Resposta": "PRO"
+  },
+  {
+    "ID": "19babdf0",
+    "Palavra": "fbff48b6",
+    "Enunciado": "___NGO",
+    "Resposta": "FRA"
+  },
+  {
+    "ID": "30c7b622",
+    "Palavra": "6480f568",
+    "Enunciado": "___ÂNGULO",
+    "Resposta": "TRI"
+  },
+  {
+    "ID": "d0d7fafe",
+    "Palavra": "da1a828d",
+    "Enunciado": "I___JA",
+    "Resposta": "GRE"
+  },
+  {
+    "ID": "48a3825f",
+    "Palavra": "9eecd71a",
+    "Enunciado": "A___L",
+    "Resposta": "BRI"
+  },
+  {
+    "ID": "beaa040f",
+    "Palavra": "e1f913a1",
+    "Enunciado": "E___DOM",
+    "Resposta": "DRE"
+  },
+  {
+    "ID": "b704426b",
+    "Palavra": "57b3f7d5",
+    "Enunciado": "A___ÃO",
+    "Resposta": "GRI"
+  },
+  {
+    "ID": "edf64fad",
+    "Palavra": "0df05fb3",
+    "Enunciado": "XA___Z",
+    "Resposta": "DRE"
+  },
+  {
+    "ID": "41cd7957",
+    "Palavra": "405e44d3",
+    "Enunciado": "CHI___",
+    "Resposta": "FRE"
+  },
+  {
+    "ID": "82e665d4",
+    "Palavra": "592878c8",
+    "Enunciado": "CO___",
+    "Resposta": "BRA"
+  },
+  {
+    "ID": "5c104fa0",
+    "Palavra": "03de0cc8",
+    "Enunciado": "LI___",
+    "Resposta": "VRO"
+  },
+  {
+    "ID": "806bf37f",
+    "Palavra": "0a2554a8",
+    "Enunciado": "__CA",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "31d3b4c0",
+    "Palavra": "5fcd4aec",
+    "Enunciado": "__CO",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "115c41d0",
+    "Palavra": "cfe26e5a",
+    "Enunciado": "__VORE",
+    "Resposta": "ÁR"
+  },
+  {
+    "ID": "ac7deb32",
+    "Palavra": "b4ffb167",
+    "Enunciado": "__VILHA",
+    "Resposta": "ER"
+  },
+  {
+    "ID": "142f7de8",
+    "Palavra": "246f5bc1",
+    "Enunciado": "G__FO",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "cc0103b6",
+    "Palavra": "587b8a99",
+    "Enunciado": "F__MIGA",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "303eb099",
+    "Palavra": "375aee4e",
+    "Enunciado": "S__FISTA",
+    "Resposta": "UR"
+  },
+  {
+    "ID": "031c0ba1",
+    "Palavra": "470f4de6",
+    "Enunciado": "G__ÇA",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "d0549ed0",
+    "Palavra": "0788fb30",
+    "Enunciado": "FL__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "326a7b12",
+    "Palavra": "fcc77088",
+    "Enunciado": "AM__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "aef16a41",
+    "Palavra": "68f2eef5",
+    "Enunciado": "SU__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "53f4d821",
+    "Palavra": "9f2ccd46",
+    "Enunciado": "VO__",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "3f7b65e7",
+    "Palavra": "35652d75",
+    "Enunciado": "AVI__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "d81e9eb7",
+    "Palavra": "87ff01af",
+    "Enunciado": "FOG__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "b0deaf38",
+    "Palavra": "73666562",
+    "Enunciado": "LIM__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "da69f11a",
+    "Palavra": "175f83f7",
+    "Enunciado": "SAB__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "26325518",
+    "Palavra": "9dd8cc2c",
+    "Enunciado": "__BRA",
+    "Resposta": "ZE"
+  },
+  {
+    "ID": "2ea0856c",
+    "Palavra": "9794ee4a",
+    "Enunciado": "__GUEIRO",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "4ce1a5ae",
+    "Palavra": "eb520f94",
+    "Enunciado": "A__LEJO",
+    "Resposta": "ZU"
+  },
+  {
+    "ID": "93aabc04",
+    "Palavra": "ca040125",
+    "Enunciado": "FA__NDA",
+    "Resposta": "ZE"
+  },
+  {
+    "ID": "bc51d63f",
+    "Palavra": "50919bb8",
+    "Enunciado": "GUI__",
+    "Resposta": "ZO"
+  },
+  {
+    "ID": "8ea678f7",
+    "Palavra": "f2358e2e",
+    "Enunciado": "RIQUE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "90ea625f",
+    "Palavra": "649a1eae",
+    "Enunciado": "DURE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "6c91e8ca",
+    "Palavra": "57c2c7fc",
+    "Enunciado": "LIMPE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "ID",
+    "Palavra": "Palavra",
+    "Enunciado": "Enunciado",
+    "Resposta": "Resposta"
+  },
+  {
+    "ID": "f3853899",
+    "Palavra": "35652d75",
+    "Enunciado": "_VIÃO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "9969ab3c",
+    "Palavra": "bbba34c5",
+    "Enunciado": "_GUA",
+    "Resposta": "Á"
+  },
+  {
+    "ID": "33178261",
+    "Palavra": "589c8a3d",
+    "Enunciado": "_GACHAR",
+    "Resposta": "A"
+  },
+  {
+    "ID": "7792fadc",
+    "Palavra": "2f2f6940",
+    "Enunciado": "_LFAFA",
+    "Resposta": "A"
+  },
+  {
+    "ID": "53c5e851",
+    "Palavra": "a57dc1fc",
+    "Enunciado": "CH_PÉU",
+    "Resposta": "A"
+  },
+  {
+    "ID": "958de122",
+    "Palavra": "4b27714a",
+    "Enunciado": "CH_VE",
+    "Resposta": "A"
+  },
+  {
+    "ID": "5b4c8002",
+    "Palavra": "0df05fb3",
+    "Enunciado": "X_DREZ",
+    "Resposta": "A"
+  },
+  {
+    "ID": "0eea9048",
+    "Palavra": "0075e33a",
+    "Enunciado": "X_ROPE",
+    "Resposta": "A"
+  },
+  {
+    "ID": "d77fa169",
+    "Palavra": "589c8a3d",
+    "Enunciado": "AG_CHAR",
+    "Resposta": "A"
+  },
+  {
+    "ID": "388e8ca9",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍC_RA",
+    "Resposta": "A"
+  },
+  {
+    "ID": "22c5ac29",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CHOC_LHO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "328f5247",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CHURR_SCO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "7a37885b",
+    "Palavra": "a8bf2f36",
+    "Enunciado": "UNH_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "3348804e",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "BOL_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "3f34a7b0",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CHUV_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "a5a86d14",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍCAR_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "88e0c17f",
+    "Palavra": "4a11be8d",
+    "Enunciado": "_NXADA",
+    "Resposta": "E"
+  },
+  {
+    "ID": "69ac455d",
+    "Palavra": "39de396d",
+    "Enunciado": "_NXAME",
+    "Resposta": "E"
+  },
+  {
+    "ID": "9a60a843",
+    "Palavra": "fafd19ae",
+    "Enunciado": "_STUFAR",
+    "Resposta": "E"
+  },
+  {
+    "ID": "54dc8cff",
+    "Palavra": "2059bcf1",
+    "Enunciado": "_LEFANTE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "455b44d3",
+    "Palavra": "043f814e",
+    "Enunciado": "CH_IRAR",
+    "Resposta": "E"
+  },
+  {
+    "ID": "071ad820",
+    "Palavra": "654301cb",
+    "Enunciado": "CH_GADA",
+    "Resposta": "E"
+  },
+  {
+    "ID": "8c5faef4",
+    "Palavra": "57eda258",
+    "Enunciado": "X_RIFE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "379b3c4d",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CH_IO",
+    "Resposta": ""
+  },
+  {
+    "ID": "a2423db3",
+    "Palavra": "a01defa2",
+    "Enunciado": "DU_NDE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "b5e14844",
+    "Palavra": "2059bcf1",
+    "Enunciado": "EL_FANTE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "48250f5f",
+    "Palavra": "3dcb035a",
+    "Enunciado": "AF_TO",
+    "Resposta": "E"
+  },
+  {
+    "ID": "85388410",
+    "Palavra": "c90f7f06",
+    "Enunciado": "JO_LHO",
+    "Resposta": "E"
+  },
+  {
+    "ID": "ca3f6a1c",
+    "Palavra": "4b27714a",
+    "Enunciado": "CHAV_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "739d3046",
+    "Palavra": "405e44d3",
+    "Enunciado": "CHIFR_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "2a9f9eee",
+    "Palavra": "04707b2c",
+    "Enunciado": "CHICLET_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "fd2f42fb",
+    "Palavra": "97c2308d",
+    "Enunciado": "PEIX_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "3069b542",
+    "Palavra": "1984590f",
+    "Enunciado": "_NFANTIL",
+    "Resposta": "I"
+  },
+  {
+    "ID": "55849e7b",
+    "Palavra": "a3f52de4",
+    "Enunciado": "_NFLÁVEL",
+    "Resposta": "I"
+  },
+  {
+    "ID": "541c2c1d",
+    "Palavra": "6f686ffd",
+    "Enunciado": "_NFORMAÇÃO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "d3da921c",
+    "Palavra": "400bec64",
+    "Enunciado": "_GUANA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "21132c24",
+    "Palavra": "0e90d98c",
+    "Enunciado": "CH_NELO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "dc8ceaeb",
+    "Palavra": "64868fa4",
+    "Enunciado": "X_CARA",
+    "Resposta": "Í"
+  },
+  {
+    "ID": "384ec877",
+    "Palavra": "79e3b16c",
+    "Enunciado": "X_S",
+    "Resposta": "I"
+  },
+  {
+    "ID": "03a45d71",
+    "Palavra": "8fb92589",
+    "Enunciado": "CH_NCHILA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "72c9d5df",
+    "Palavra": "35652d75",
+    "Enunciado": "AV_ÃO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "6fb00f72",
+    "Palavra": "043f814e",
+    "Enunciado": "CHE_RAR",
+    "Resposta": "I"
+  },
+  {
+    "ID": "7ba658ea",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CHE_O",
+    "Resposta": "I"
+  },
+  {
+    "ID": "6e28f810",
+    "Palavra": "878d791c",
+    "Enunciado": "CA_XA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "2ebad39b",
+    "Palavra": "d019042a",
+    "Enunciado": "COREOGRAF_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "67ae8e17",
+    "Palavra": "19b14b3b",
+    "Enunciado": "LAVANDER_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "b2217948",
+    "Palavra": "b1e54622",
+    "Enunciado": "UNICÓRN_O",
+    "Resposta": "I"
+  },
+  {
+    "ID": "c21f4068",
+    "Palavra": "c0f7de5a",
+    "Enunciado": "FAMÍL_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "ff27ebba",
+    "Palavra": "1ae1e456",
+    "Enunciado": "_FENSA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "c4e1c774",
+    "Palavra": "58eaed01",
+    "Enunciado": "_CA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9cee9b5c",
+    "Palavra": "0a2554a8",
+    "Enunciado": "_RCA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "ea97ebfe",
+    "Palavra": "f166340e",
+    "Enunciado": "_FERTA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "3f4c68a3",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "B_LA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "8dfa813c",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CH_CALHO",
+    "Resposta": "O"
+  },
+  {
+    "ID": "47c78cf4",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CH_COLATE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "b3fd1bb0",
+    "Palavra": "3cafc093",
+    "Enunciado": "D_MINÓ",
+    "Resposta": "O"
+  },
+  {
+    "ID": "2db7865a",
+    "Palavra": "032398fa",
+    "Enunciado": "AF_FAR",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9e29197d",
+    "Palavra": "76222800",
+    "Enunciado": "AF_GADO",
+    "Resposta": "O"
+  },
+  {
+    "ID": "8d2fbffb",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CHOC_LATE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9dc8f2fd",
+    "Palavra": "0075e33a",
+    "Enunciado": "XAR_PE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "e2203776",
+    "Palavra": "0788fb30",
+    "Enunciado": "FL_R",
+    "Resposta": "O"
+  },
+  {
+    "ID": "affee7db",
+    "Palavra": "bb983828",
+    "Enunciado": "PROFESS_R",
+    "Resposta": "O"
+  },
+  {
+    "ID": "2fb51588",
+    "Palavra": "e8a94284",
+    "Enunciado": "TROC_",
+    "Resposta": "O"
+  },
+  {
+    "ID": "5be6371d",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CHEI_",
+    "Resposta": "O"
+  },
+  {
+    "ID": "3d26f9e2",
+    "Palavra": "a8bf2f36",
+    "Enunciado": "_NHA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "c5acdad5",
+    "Palavra": "9897d566",
+    "Enunciado": "_NIFORME",
+    "Resposta": "U"
+  },
+  {
+    "ID": "a2011d46",
+    "Palavra": "b1e54622",
+    "Enunciado": "_NICÓRNIO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "e5f9a010",
+    "Palavra": "8df351b3",
+    "Enunciado": "_RUBU",
+    "Resposta": "U"
+  },
+  {
+    "ID": "1d8859aa",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CH_VA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "3f20557f",
+    "Palavra": "3057408f",
+    "Enunciado": "CH_VEIRO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "d76fbd72",
+    "Palavra": "c583af95",
+    "Enunciado": "CH_PETA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "c17a5fa2",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CH_RRASCO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "9d122f3c",
+    "Palavra": "b1373ea7",
+    "Enunciado": "AG_LHA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "af0bfa45",
+    "Palavra": "eb520f94",
+    "Enunciado": "AZ_LEJO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "eaa40bf5",
+    "Palavra": "c0add2b7",
+    "Enunciado": "MACH_CADO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "2355d86b",
+    "Palavra": "fafd19ae",
+    "Enunciado": "EST_FAR",
+    "Resposta": "U"
+  },
+  {
+    "ID": "bf41af58",
+    "Palavra": "c59db6d1",
+    "Enunciado": "CHUCH_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "6e1cc7a2",
+    "Palavra": "b4ad0a33",
+    "Enunciado": "TOF_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "af27d976",
+    "Palavra": "a57dc1fc",
+    "Enunciado": "CHAPÉ_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "3604f959",
+    "Palavra": "9cc04239",
+    "Enunciado": "XAMP_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "b39b5989",
+    "Palavra": "b575ead5",
+    "Enunciado": "__QUIDIFICADOR",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "4400b625",
+    "Palavra": "53838456",
+    "Enunciado": "__GO",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "b74a7d23",
+    "Palavra": "b87ecf3f",
+    "Enunciado": "__NGUA",
+    "Resposta": "LÍ"
+  },
+  {
+    "ID": "b66207cb",
+    "Palavra": "a8d9176d",
+    "Enunciado": "__GUMES",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "d901ee3e",
+    "Palavra": "2059bcf1",
+    "Enunciado": "E__FANTE",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "36844174",
+    "Palavra": "a5bb4e24",
+    "Enunciado": "A__MENTOS",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "ec6dc305",
+    "Palavra": "d8aa294c",
+    "Enunciado": "A__CATE",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "08ac0f0e",
+    "Palavra": "9d736e11",
+    "Enunciado": "A__GRIA",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "9cedcea7",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "BO__",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "4c41b2ff",
+    "Palavra": "6d9c36d9",
+    "Enunciado": "CHU__",
+    "Resposta": "LÉ"
+  },
+  {
+    "ID": "e083d9ec",
+    "Palavra": "5806c58c",
+    "Enunciado": "JAU__",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "994d9cc3",
+    "Palavra": "2ff2de64",
+    "Enunciado": "VIO___",
+    "Resposta": "LÃO"
+  },
+  {
+    "ID": "6404d261",
+    "Palavra": "84434433",
+    "Enunciado": "__XE",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "ea3ea1c4",
+    "Palavra": "97c2308d",
+    "Enunciado": "__IXE",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "769bf541",
+    "Palavra": "f1bc79c9",
+    "Enunciado": "__FOU",
+    "Resposta": "PI"
+  },
+  {
+    "ID": "3bb6683f",
+    "Palavra": "aa952115",
+    "Enunciado": "__LGA",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "1f313a12",
+    "Palavra": "c583af95",
+    "Enunciado": "CHU__TA",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "ecda5a96",
+    "Palavra": "72009258",
+    "Enunciado": "AS__RGO",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "417b30d2",
+    "Palavra": "d34e560a",
+    "Enunciado": "GUE__RDO",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "87525d6b",
+    "Palavra": "773194d6",
+    "Enunciado": "ES__NJA",
+    "Resposta": "PO"
+  },
+  {
+    "ID": "3263cca0",
+    "Palavra": "9cc04239",
+    "Enunciado": "XAM__",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "85ecac5f",
+    "Palavra": "186af6b0",
+    "Enunciado": "LIM__",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "842eee1e",
+    "Palavra": "0075e33a",
+    "Enunciado": "XARO__",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "03b2c058",
+    "Palavra": "00ecf92f",
+    "Enunciado": "GARU__",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "8af16797",
+    "Palavra": "3e90ed96",
+    "Enunciado": "__CA",
+    "Resposta": "VA"
+  },
+  {
+    "ID": "a0f6df4f",
+    "Palavra": "73b78e2b",
+    "Enunciado": "__DRO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "3fd0dcdf",
+    "Palavra": "49ac8942",
+    "Enunciado": "__DRAÇA",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "7aedbf5d",
+    "Palavra": "e7a3b3d9",
+    "Enunciado": "__RE",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "d0ddb92c",
+    "Palavra": "35652d75",
+    "Enunciado": "A__ÃO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "84c58e61",
+    "Palavra": "e2ec96f2",
+    "Enunciado": "A__NTURA",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "47d1ba88",
+    "Palavra": "81587a83",
+    "Enunciado": "A__NTAL",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "554bd13b",
+    "Palavra": "267969f3",
+    "Enunciado": "A__SO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "59b00ea8",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CHU__",
+    "Resposta": "VA"
+  },
+  {
+    "ID": "285f6681",
+    "Palavra": "4b27714a",
+    "Enunciado": "CHA__",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "4c959b5c",
+    "Palavra": "99719e8f",
+    "Enunciado": "TRO___",
+    "Resposta": "VÃO"
+  },
+  {
+    "ID": "b53c23dd",
+    "Palavra": "22d74777",
+    "Enunciado": "CRA__",
+    "Resposta": "VO"
+  },
+  {
+    "ID": "9e697f87",
+    "Palavra": "3449f4c8",
+    "Enunciado": "__REFA",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "999b37c3",
+    "Palavra": "b4ad0a33",
+    "Enunciado": "__FU",
+    "Resposta": "TO"
+  },
+  {
+    "ID": "932592ec",
+    "Palavra": "0bb48434",
+    "Enunciado": "__LEFONE",
+    "Resposta": "TE"
+  },
+  {
+    "ID": "f634f020",
+    "Palavra": "8493af4d",
+    "Enunciado": "__GARELA",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "0f9ecf42",
+    "Palavra": "56daa673",
+    "Enunciado": "A__NGIR",
+    "Resposta": "TI"
+  },
+  {
+    "ID": "9f50cab6",
+    "Palavra": "3290d295",
+    "Enunciado": "U__NSÍLIO",
+    "Resposta": "TE"
+  },
+  {
+    "ID": "9d324d69",
+    "Palavra": "cbde2a6f",
+    "Enunciado": "A__VIDADE",
+    "Resposta": "TI"
+  },
+  {
+    "ID": "eba79d87",
+    "Palavra": "fafd19ae",
+    "Enunciado": "ES__FAR",
+    "Resposta": "TU"
+  },
+  {
+    "ID": "bd113920",
+    "Palavra": "97b42398",
+    "Enunciado": "FI__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "57f2c161",
+    "Palavra": "4294acf9",
+    "Enunciado": "FO__",
+    "Resposta": "TO"
+  },
+  {
+    "ID": "f6a7113e",
+    "Palavra": "8f80af90",
+    "Enunciado": "FES__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "bde50b42",
+    "Palavra": "c583af95",
+    "Enunciado": "CHUPE__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "f0bb9967",
+    "Palavra": "c0add2b7",
+    "Enunciado": "__CHUCADO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "365e4f4a",
+    "Palavra": "7a6725b5",
+    "Enunciado": "__CHADO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "e89cd3c0",
+    "Palavra": "3ba67219",
+    "Enunciado": "__XERICA",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "79492ff8",
+    "Palavra": "bc7d0d20",
+    "Enunciado": "__XILHÃO",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "44149d72",
+    "Palavra": "5227154b",
+    "Enunciado": "A__RGO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "a20d3c4a",
+    "Palavra": "3e338a6a",
+    "Enunciado": "CHA__NÉ",
+    "Resposta": "MI"
+  },
+  {
+    "ID": "7ad0e312",
+    "Palavra": "3cafc093",
+    "Enunciado": "DO__NÓ",
+    "Resposta": "MI"
+  },
+  {
+    "ID": "b6ce2345",
+    "Palavra": "3f29aff9",
+    "Enunciado": "FU__ÇA",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "23ee9357",
+    "Palavra": "f7f6c2dd",
+    "Enunciado": "LES__",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "56c202b5",
+    "Palavra": "39de396d",
+    "Enunciado": "ENXA__",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "dccf7287",
+    "Palavra": "a8d9176d",
+    "Enunciado": "LEGU__S",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "5ee37e31",
+    "Palavra": "ac363f5b",
+    "Enunciado": "ALGE__S",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "452d8b9c",
+    "Palavra": "c78da1ba",
+    "Enunciado": "__CHADURA",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "9143fcad",
+    "Palavra": "5511b747",
+    "Enunciado": "__XINA",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "eff89ccf",
+    "Palavra": "9ac74973",
+    "Enunciado": "__CHADO",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "83529ab8",
+    "Palavra": "096ad43e",
+    "Enunciado": "__ROFA",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "4f67a1a3",
+    "Palavra": "032398fa",
+    "Enunciado": "A__FAR",
+    "Resposta": "FO"
+  },
+  {
+    "ID": "d11e238f",
+    "Palavra": "df2bd38c",
+    "Enunciado": "A__ADOS",
+    "Resposta": "FI"
+  },
+  {
+    "ID": "2cdf7372",
+    "Palavra": "1ae1e456",
+    "Enunciado": "O__NSA",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "dd461094",
+    "Palavra": "3dcb035a",
+    "Enunciado": "A__TO",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "ac30dde3",
+    "Palavra": "eb2dfaee",
+    "Enunciado": "SO__",
+    "Resposta": "FÁ"
+  },
+  {
+    "ID": "834d5d57",
+    "Palavra": "2f2f6940",
+    "Enunciado": "ALFA__",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "e61fd85c",
+    "Palavra": "9e939fa0",
+    "Enunciado": "CHE__",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "547d5241",
+    "Palavra": "c81d93f3",
+    "Enunciado": "BI__",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "24e69ae7",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "__LA",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "6a31713b",
+    "Palavra": "a622ee95",
+    "Enunciado": "__CHOS",
+    "Resposta": "BI"
+  },
+  {
+    "ID": "bce7b202",
+    "Palavra": "c81d93f3",
+    "Enunciado": "__FE",
+    "Resposta": "BI"
+  },
+  {
+    "ID": "87c3ed7d",
+    "Palavra": "47594ea1",
+    "Enunciado": "__RRIFAR",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "be7cb543",
+    "Palavra": "83e07a80",
+    "Enunciado": "A__JUR",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "54fb26b8",
+    "Palavra": "d0bd9390",
+    "Enunciado": "A__CAXI",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "be311d58",
+    "Palavra": "65141544",
+    "Enunciado": "JA__TI",
+    "Resposta": "BU"
+  },
+  {
+    "ID": "35107663",
+    "Palavra": "dd4b5f42",
+    "Enunciado": "JA__TICABA",
+    "Resposta": "BU"
+  },
+  {
+    "ID": "024267ac",
+    "Palavra": "384c199a",
+    "Enunciado": "LAM__R",
+    "Resposta": "BE"
+  },
+  {
+    "ID": "4c0e1be4",
+    "Palavra": "440930aa",
+    "Enunciado": "GOIA__",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "3cf6b3bb",
+    "Palavra": "dd4b5f42",
+    "Enunciado": "JABUTICA__",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "7bc97a29",
+    "Palavra": "bd5c5d37",
+    "Enunciado": "CACHIM__",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "ae47e696",
+    "Palavra": "55b65411",
+    "Enunciado": "__JA",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "80ff8b97",
+    "Palavra": "a3609fc6",
+    "Enunciado": "__NJAS",
+    "Resposta": "NI"
+  },
+  {
+    "ID": "c6482ff3",
+    "Palavra": "ac9b7d54",
+    "Enunciado": "__VE",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "b62ef673",
+    "Palavra": "657ae3fd",
+    "Enunciado": "__VIO",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "541acfb9",
+    "Palavra": "0e90d98c",
+    "Enunciado": "CHI__LO",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "b875254d",
+    "Palavra": "19a5746c",
+    "Enunciado": "DI__SSAURO",
+    "Resposta": "NO"
+  },
+  {
+    "ID": "f3d2005e",
+    "Palavra": "03e5e7df",
+    "Enunciado": "JA__LA",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "1bd0101d",
+    "Palavra": "2b27cab3",
+    "Enunciado": "DA__NE",
+    "Resposta": "NO"
+  },
+  {
+    "ID": "54637023",
+    "Palavra": "3e338a6a",
+    "Enunciado": "CHAMI__",
+    "Resposta": "NÉ"
+  },
+  {
+    "ID": "a8597f61",
+    "Palavra": "5511b747",
+    "Enunciado": "FAXI__",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "63590d98",
+    "Palavra": "3cafc093",
+    "Enunciado": "DOMI__",
+    "Resposta": "NÓ"
+  },
+  {
+    "ID": "1313d091",
+    "Palavra": "2b27cab3",
+    "Enunciado": "DANO__",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "58b56690",
+    "Palavra": "bb88002d",
+    "Enunciado": "__DO",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "3a3116ca",
+    "Palavra": "5534eb40",
+    "Enunciado": "__DO",
+    "Resposta": "DE"
+  },
+  {
+    "ID": "550dbb8b",
+    "Palavra": "19a5746c",
+    "Enunciado": "__NOSSAURO",
+    "Resposta": "DI"
+  },
+  {
+    "ID": "7a6e4883",
+    "Palavra": "3cafc093",
+    "Enunciado": "__MINÓ",
+    "Resposta": "DO"
+  },
+  {
+    "ID": "51cde438",
+    "Palavra": "20b68ecc",
+    "Enunciado": "GOR__RA",
+    "Resposta": "DU"
+  },
+  {
+    "ID": "21284a4b",
+    "Palavra": "c78da1ba",
+    "Enunciado": "FECHA__RA",
+    "Resposta": "DU"
+  },
+  {
+    "ID": "91a449d1",
+    "Palavra": "7f3e399b",
+    "Enunciado": "DIFICUL__DE",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "f5d1ca35",
+    "Palavra": "ef6d6d8b",
+    "Enunciado": "VELOCI__DE",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "b717d6f2",
+    "Palavra": "c51c3529",
+    "Enunciado": "JAR__M",
+    "Resposta": "DI"
+  },
+  {
+    "ID": "18281012",
+    "Palavra": "e4300963",
+    "Enunciado": "LIN__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "77bb573c",
+    "Palavra": "654301cb",
+    "Enunciado": "CHEGA__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "c02b6fbe",
+    "Palavra": "4a11be8d",
+    "Enunciado": "ENXA__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "b7e64daa",
+    "Palavra": "878d791c",
+    "Enunciado": "__IXA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "4ccf6101",
+    "Palavra": "bd5c5d37",
+    "Enunciado": "__CHIMBO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "5d4d6aa9",
+    "Palavra": "b829ec4d",
+    "Enunciado": "__CHOEIRA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "dd790d01",
+    "Palavra": "6613634b",
+    "Enunciado": "__CHORRO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "deb2e4b4",
+    "Palavra": "64868fa4",
+    "Enunciado": "XI__RA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "ee3095fd",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CHO__LHO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "b04ca2fe",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CHO__LATE",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "9a5329a6",
+    "Palavra": "754f1860",
+    "Enunciado": "DES__RGA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "0ebe01c0",
+    "Palavra": "775cd6ef",
+    "Enunciado": "DIS__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "ab79939f",
+    "Palavra": "422ef04d",
+    "Enunciado": "CAS__",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "d03024c7",
+    "Palavra": "5fd9b43d",
+    "Enunciado": "CIN__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "cadbf7db",
+    "Palavra": "73756425",
+    "Enunciado": "MÁGI__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "fba15e66",
+    "Palavra": "7d17669f",
+    "Enunciado": "__CHEIO",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "7954f7c7",
+    "Palavra": "256a6868",
+    "Enunciado": "__SBIFE",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "a9414850",
+    "Palavra": "ccc64cb3",
+    "Enunciado": "__NGUE",
+    "Resposta": "RI"
+  },
+  {
+    "ID": "3bcaa58c",
+    "Palavra": "949d9701",
+    "Enunciado": "__GUA",
+    "Resposta": "RÉ"
+  },
+  {
+    "ID": "acd4384a",
+    "Palavra": "568c91d9",
+    "Enunciado": "A___NJO",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "fdd6f45e",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CHU___SCO",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "f7b5af09",
+    "Palavra": "98dff104",
+    "Enunciado": "GA___FA",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "615b8a3b",
+    "Palavra": "47594ea1",
+    "Enunciado": "BO___FAR",
+    "Resposta": "RRI"
+  },
+  {
+    "ID": "9110c2c8",
+    "Palavra": "29336b23",
+    "Enunciado": "FE___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "c5263fe3",
+    "Palavra": "9fe8c27a",
+    "Enunciado": "GO___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "e0db7504",
+    "Palavra": "6613634b",
+    "Enunciado": "CACHO___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "f5e08b8c",
+    "Palavra": "dc2f293e",
+    "Enunciado": "MACA____",
+    "Resposta": "RRÃO"
+  },
+  {
+    "ID": "b5ff1174",
+    "Palavra": "246f5bc1",
+    "Enunciado": "__RFO",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "6fef5381",
+    "Palavra": "b2c3d387",
+    "Enunciado": "__TO",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "c18d1eca",
+    "Palavra": "9fe8c27a",
+    "Enunciado": "__RRO",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "73015441",
+    "Palavra": "b4699007",
+    "Enunciado": "__RILA",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "b5460875",
+    "Palavra": "589c8a3d",
+    "Enunciado": "A__CHAR",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "65be851b",
+    "Palavra": "b1373ea7",
+    "Enunciado": "A__LHA",
+    "Resposta": "GU"
+  },
+  {
+    "ID": "7b9b6974",
+    "Palavra": "654301cb",
+    "Enunciado": "CHE__DA",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "4a5aa32e",
+    "Palavra": "2f88f7a6",
+    "Enunciado": "RE__DOR",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "c0b6606f",
+    "Palavra": "87ff01af",
+    "Enunciado": "FO___",
+    "Resposta": "GÃO"
+  },
+  {
+    "ID": "2d8e071f",
+    "Palavra": "1c67e79b",
+    "Enunciado": "FI__S",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "eb7e14fe",
+    "Palavra": "2e728b53",
+    "Enunciado": "FO__",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "5ff88541",
+    "Palavra": "53838456",
+    "Enunciado": "LA__",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "b90f6709",
+    "Palavra": "fb1cf7a5",
+    "Enunciado": "A__RA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "26b8c7e4",
+    "Palavra": "1966a1a8",
+    "Enunciado": "A__NHA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "6072eae1",
+    "Palavra": "8df351b3",
+    "Enunciado": "U__BU",
+    "Resposta": "RU"
+  },
+  {
+    "ID": "5921b3c7",
+    "Palavra": "38dfc1ed",
+    "Enunciado": "O__",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "70729b83",
+    "Palavra": "0075e33a",
+    "Enunciado": "XA__PE",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "60dace6d",
+    "Palavra": "57eda258",
+    "Enunciado": "XE__FE",
+    "Resposta": "RI"
+  },
+  {
+    "ID": "c9ba6cd9",
+    "Palavra": "3449f4c8",
+    "Enunciado": "TA__FA",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "a9957eb7",
+    "Palavra": "d43764bf",
+    "Enunciado": "GI__FA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "3ca2b929",
+    "Palavra": "fb1cf7a5",
+    "Enunciado": "ARA__",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "2396e4a7",
+    "Palavra": "72ba3b86",
+    "Enunciado": "CHEI__",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "98bb9aff",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍCA__",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "e9b1f89b",
+    "Palavra": "3057408f",
+    "Enunciado": "CHUVEI__",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "3a2983fb",
+    "Palavra": "946344de",
+    "Enunciado": "__GO",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "fdf3e83b",
+    "Palavra": "0b463aa4",
+    "Enunciado": "__GADOR",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "c3c532e4",
+    "Palavra": "f81a1bb8",
+    "Enunciado": "__RRA",
+    "Resposta": "JA"
+  },
+  {
+    "ID": "2f266ed0",
+    "Palavra": "8ae31d07",
+    "Enunciado": "__RNAL",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "601e34be",
+    "Palavra": "5eef270a",
+    "Enunciado": "MAN__RICÃO",
+    "Resposta": "JE"
+  },
+  {
+    "ID": "51ed34d2",
+    "Palavra": "5455fad9",
+    "Enunciado": "BERIN__LA",
+    "Resposta": "JE"
+  },
+  {
+    "ID": "d7952ca9",
+    "Palavra": "c205f6cd",
+    "Enunciado": "CAN__CA",
+    "Resposta": "JI"
+  },
+  {
+    "ID": "691e6ff6",
+    "Palavra": "8c23e40e",
+    "Enunciado": "SO__",
+    "Resposta": "JA"
+  },
+  {
+    "ID": "7e411e14",
+    "Palavra": "34b7fb79",
+    "Enunciado": "SU__",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "58b3c823",
+    "Palavra": "c417d37f",
+    "Enunciado": "FEI___",
+    "Resposta": "JÃO"
+  },
+  {
+    "ID": "3109ac3c",
+    "Palavra": "83e07a80",
+    "Enunciado": "ABA__R",
+    "Resposta": "JU"
+  },
+  {
+    "ID": "024fd6e6",
+    "Palavra": "eb2dfaee",
+    "Enunciado": "__FÁ",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "d5dfc694",
+    "Palavra": "8c23e40e",
+    "Enunciado": "__JA",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "2983fb65",
+    "Palavra": "34b7fb79",
+    "Enunciado": "__JO",
+    "Resposta": "SU"
+  },
+  {
+    "ID": "a0b453ab",
+    "Palavra": "648c2872",
+    "Enunciado": "__CO",
+    "Resposta": "SA"
+  },
+  {
+    "ID": "05166c96",
+    "Palavra": "3e440dc2",
+    "Enunciado": "A___STIR",
+    "Resposta": "SSI"
+  },
+  {
+    "ID": "6cfe01ad",
+    "Palavra": "9686a76e",
+    "Enunciado": "A___PRAR",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "afa5a51d",
+    "Palavra": "3063d04c",
+    "Enunciado": "MA___GEM",
+    "Resposta": "SSA"
+  },
+  {
+    "ID": "ed1cbcd7",
+    "Palavra": "2c40461c",
+    "Enunciado": "VA___URA",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "9c5c8546",
+    "Palavra": "6368e6c3",
+    "Enunciado": "GAN__",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "7cb67fac",
+    "Palavra": "1ae1e456",
+    "Enunciado": "OFEN__",
+    "Resposta": "SA"
+  },
+  {
+    "ID": "08cb6260",
+    "Palavra": "bb983828",
+    "Enunciado": "PROFE___R",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "684390bc",
+    "Palavra": "f82e9ef6",
+    "Enunciado": "GE___",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "a025bcf2",
+    "Palavra": "64868fa4",
+    "Enunciado": "__CARA",
+    "Resposta": "XÍ"
+  },
+  {
+    "ID": "6338bfe4",
+    "Palavra": "0df05fb3",
+    "Enunciado": "__DREZ",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "4657bc00",
+    "Palavra": "0075e33a",
+    "Enunciado": "__ROPE",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "1805bf93",
+    "Palavra": "57eda258",
+    "Enunciado": "__RIFE",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "9f7758f0",
+    "Palavra": "4a11be8d",
+    "Enunciado": "EN__DA",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "0d2dea6b",
+    "Palavra": "39de396d",
+    "Enunciado": "EN__ME",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "a267614a",
+    "Palavra": "5511b747",
+    "Enunciado": "FA__NA",
+    "Resposta": "XI"
+  },
+  {
+    "ID": "8a30e699",
+    "Palavra": "3ba67219",
+    "Enunciado": "ME__RICA",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "d8f7c9a5",
+    "Palavra": "878d791c",
+    "Enunciado": "CAI__",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "e3364485",
+    "Palavra": "090b892e",
+    "Enunciado": "QUEI__",
+    "Resposta": "XO"
+  },
+  {
+    "ID": "15b29823",
+    "Palavra": "97c2308d",
+    "Enunciado": "PEI__",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "663be421",
+    "Palavra": "61fb860f",
+    "Enunciado": "BRU__",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "2518940e",
+    "Palavra": "7ff710f2",
+    "Enunciado": "__JE",
+    "Resposta": "HO"
+  },
+  {
+    "ID": "a8f9f775",
+    "Palavra": "e93a2d12",
+    "Enunciado": "__LICÓPTERO",
+    "Resposta": "HE"
+  },
+  {
+    "ID": "84ac7c03",
+    "Palavra": "7f5fc194",
+    "Enunciado": "__RTA",
+    "Resposta": "HO"
+  },
+  {
+    "ID": "5ca658ac",
+    "Palavra": "4e7700a8",
+    "Enunciado": "__STÓRIA",
+    "Resposta": "HI"
+  },
+  {
+    "ID": "07ffff73",
+    "Palavra": "0788fb30",
+    "Enunciado": "___R",
+    "Resposta": "FLO"
+  },
+  {
+    "ID": "55a49744",
+    "Palavra": "38c6f2e1",
+    "Enunciado": "___MINGO",
+    "Resposta": "FLA"
+  },
+  {
+    "ID": "e4741502",
+    "Palavra": "8a82c646",
+    "Enunciado": "___UTA",
+    "Resposta": "FLA"
+  },
+  {
+    "ID": "53990a7b",
+    "Palavra": "f8013b95",
+    "Enunciado": "___RESTA",
+    "Resposta": "FLO"
+  },
+  {
+    "ID": "d6e4f310",
+    "Palavra": "04707b2c",
+    "Enunciado": "CHI___TE",
+    "Resposta": "CLE"
+  },
+  {
+    "ID": "3550aeef",
+    "Palavra": "38355f81",
+    "Enunciado": "BI___OTECA",
+    "Resposta": "BLI"
+  },
+  {
+    "ID": "7f51e3f2",
+    "Palavra": "76972b5e",
+    "Enunciado": "DI___MA",
+    "Resposta": "PLO"
+  },
+  {
+    "ID": "207522b0",
+    "Palavra": "a3f52de4",
+    "Enunciado": "IN___VEL",
+    "Resposta": "FLÁ"
+  },
+  {
+    "ID": "ad370e48",
+    "Palavra": "b14b2b4a",
+    "Enunciado": "I___",
+    "Resposta": "GLU"
+  },
+  {
+    "ID": "84a54d5c",
+    "Palavra": "9931d55e",
+    "Enunciado": "___FA",
+    "Resposta": "TRU"
+  },
+  {
+    "ID": "9ae961ff",
+    "Palavra": "bb983828",
+    "Enunciado": "___FESSOR",
+    "Resposta": "PRO"
+  },
+  {
+    "ID": "19babdf0",
+    "Palavra": "fbff48b6",
+    "Enunciado": "___NGO",
+    "Resposta": "FRA"
+  },
+  {
+    "ID": "30c7b622",
+    "Palavra": "6480f568",
+    "Enunciado": "___ÂNGULO",
+    "Resposta": "TRI"
+  },
+  {
+    "ID": "d0d7fafe",
+    "Palavra": "da1a828d",
+    "Enunciado": "I___JA",
+    "Resposta": "GRE"
+  },
+  {
+    "ID": "48a3825f",
+    "Palavra": "9eecd71a",
+    "Enunciado": "A___L",
+    "Resposta": "BRI"
+  },
+  {
+    "ID": "beaa040f",
+    "Palavra": "e1f913a1",
+    "Enunciado": "E___DOM",
+    "Resposta": "DRE"
+  },
+  {
+    "ID": "b704426b",
+    "Palavra": "57b3f7d5",
+    "Enunciado": "A___ÃO",
+    "Resposta": "GRI"
+  },
+  {
+    "ID": "edf64fad",
+    "Palavra": "0df05fb3",
+    "Enunciado": "XA___Z",
+    "Resposta": "DRE"
+  },
+  {
+    "ID": "41cd7957",
+    "Palavra": "405e44d3",
+    "Enunciado": "CHI___",
+    "Resposta": "FRE"
+  },
+  {
+    "ID": "82e665d4",
+    "Palavra": "592878c8",
+    "Enunciado": "CO___",
+    "Resposta": "BRA"
+  },
+  {
+    "ID": "5c104fa0",
+    "Palavra": "03de0cc8",
+    "Enunciado": "LI___",
+    "Resposta": "VRO"
+  },
+  {
+    "ID": "806bf37f",
+    "Palavra": "0a2554a8",
+    "Enunciado": "__CA",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "31d3b4c0",
+    "Palavra": "5fcd4aec",
+    "Enunciado": "__CO",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "115c41d0",
+    "Palavra": "cfe26e5a",
+    "Enunciado": "__VORE",
+    "Resposta": "ÁR"
+  },
+  {
+    "ID": "ac7deb32",
+    "Palavra": "b4ffb167",
+    "Enunciado": "__VILHA",
+    "Resposta": "ER"
+  },
+  {
+    "ID": "142f7de8",
+    "Palavra": "246f5bc1",
+    "Enunciado": "G__FO",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "cc0103b6",
+    "Palavra": "587b8a99",
+    "Enunciado": "F__MIGA",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "303eb099",
+    "Palavra": "375aee4e",
+    "Enunciado": "S__FISTA",
+    "Resposta": "UR"
+  },
+  {
+    "ID": "031c0ba1",
+    "Palavra": "470f4de6",
+    "Enunciado": "G__ÇA",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "d0549ed0",
+    "Palavra": "0788fb30",
+    "Enunciado": "FL__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "326a7b12",
+    "Palavra": "fcc77088",
+    "Enunciado": "AM__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "aef16a41",
+    "Palavra": "68f2eef5",
+    "Enunciado": "SU__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "53f4d821",
+    "Palavra": "9f2ccd46",
+    "Enunciado": "VO__",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "3f7b65e7",
+    "Palavra": "35652d75",
+    "Enunciado": "AVI__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "d81e9eb7",
+    "Palavra": "87ff01af",
+    "Enunciado": "FOG__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "b0deaf38",
+    "Palavra": "73666562",
+    "Enunciado": "LIM__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "da69f11a",
+    "Palavra": "175f83f7",
+    "Enunciado": "SAB__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "26325518",
+    "Palavra": "9dd8cc2c",
+    "Enunciado": "__BRA",
+    "Resposta": "ZE"
+  },
+  {
+    "ID": "2ea0856c",
+    "Palavra": "9794ee4a",
+    "Enunciado": "__GUEIRO",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "4ce1a5ae",
+    "Palavra": "eb520f94",
+    "Enunciado": "A__LEJO",
+    "Resposta": "ZU"
+  },
+  {
+    "ID": "93aabc04",
+    "Palavra": "ca040125",
+    "Enunciado": "FA__NDA",
+    "Resposta": "ZE"
+  },
+  {
+    "ID": "bc51d63f",
+    "Palavra": "50919bb8",
+    "Enunciado": "GUI__",
+    "Resposta": "ZO"
+  },
+  {
+    "ID": "8ea678f7",
+    "Palavra": "f2358e2e",
+    "Enunciado": "RIQUE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "90ea625f",
+    "Palavra": "649a1eae",
+    "Enunciado": "DURE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "6c91e8ca",
+    "Palavra": "57c2c7fc",
+    "Enunciado": "LIMPE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "ID",
+    "Palavra": "Palavra",
+    "Enunciado": "Enunciado",
+    "Resposta": "Resposta"
+  },
+  {
+    "ID": "f3853899",
+    "Palavra": "35652d75",
+    "Enunciado": "_VIÃO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "9969ab3c",
+    "Palavra": "bbba34c5",
+    "Enunciado": "_GUA",
+    "Resposta": "Á"
+  },
+  {
+    "ID": "33178261",
+    "Palavra": "589c8a3d",
+    "Enunciado": "_GACHAR",
+    "Resposta": "A"
+  },
+  {
+    "ID": "7792fadc",
+    "Palavra": "2f2f6940",
+    "Enunciado": "_LFAFA",
+    "Resposta": "A"
+  },
+  {
+    "ID": "53c5e851",
+    "Palavra": "a57dc1fc",
+    "Enunciado": "CH_PÉU",
+    "Resposta": "A"
+  },
+  {
+    "ID": "958de122",
+    "Palavra": "4b27714a",
+    "Enunciado": "CH_VE",
+    "Resposta": "A"
+  },
+  {
+    "ID": "5b4c8002",
+    "Palavra": "0df05fb3",
+    "Enunciado": "X_DREZ",
+    "Resposta": "A"
+  },
+  {
+    "ID": "0eea9048",
+    "Palavra": "0075e33a",
+    "Enunciado": "X_ROPE",
+    "Resposta": "A"
+  },
+  {
+    "ID": "d77fa169",
+    "Palavra": "589c8a3d",
+    "Enunciado": "AG_CHAR",
+    "Resposta": "A"
+  },
+  {
+    "ID": "388e8ca9",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍC_RA",
+    "Resposta": "A"
+  },
+  {
+    "ID": "22c5ac29",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CHOC_LHO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "328f5247",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CHURR_SCO",
+    "Resposta": "A"
+  },
+  {
+    "ID": "7a37885b",
+    "Palavra": "a8bf2f36",
+    "Enunciado": "UNH_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "3348804e",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "BOL_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "3f34a7b0",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CHUV_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "a5a86d14",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍCAR_",
+    "Resposta": "A"
+  },
+  {
+    "ID": "88e0c17f",
+    "Palavra": "4a11be8d",
+    "Enunciado": "_NXADA",
+    "Resposta": "E"
+  },
+  {
+    "ID": "69ac455d",
+    "Palavra": "39de396d",
+    "Enunciado": "_NXAME",
+    "Resposta": "E"
+  },
+  {
+    "ID": "9a60a843",
+    "Palavra": "fafd19ae",
+    "Enunciado": "_STUFAR",
+    "Resposta": "E"
+  },
+  {
+    "ID": "54dc8cff",
+    "Palavra": "2059bcf1",
+    "Enunciado": "_LEFANTE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "455b44d3",
+    "Palavra": "043f814e",
+    "Enunciado": "CH_IRAR",
+    "Resposta": "E"
+  },
+  {
+    "ID": "071ad820",
+    "Palavra": "654301cb",
+    "Enunciado": "CH_GADA",
+    "Resposta": "E"
+  },
+  {
+    "ID": "8c5faef4",
+    "Palavra": "57eda258",
+    "Enunciado": "X_RIFE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "379b3c4d",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CH_IO",
+    "Resposta": ""
+  },
+  {
+    "ID": "a2423db3",
+    "Palavra": "a01defa2",
+    "Enunciado": "DU_NDE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "b5e14844",
+    "Palavra": "2059bcf1",
+    "Enunciado": "EL_FANTE",
+    "Resposta": "E"
+  },
+  {
+    "ID": "48250f5f",
+    "Palavra": "3dcb035a",
+    "Enunciado": "AF_TO",
+    "Resposta": "E"
+  },
+  {
+    "ID": "85388410",
+    "Palavra": "c90f7f06",
+    "Enunciado": "JO_LHO",
+    "Resposta": "E"
+  },
+  {
+    "ID": "ca3f6a1c",
+    "Palavra": "4b27714a",
+    "Enunciado": "CHAV_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "739d3046",
+    "Palavra": "405e44d3",
+    "Enunciado": "CHIFR_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "2a9f9eee",
+    "Palavra": "04707b2c",
+    "Enunciado": "CHICLET_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "fd2f42fb",
+    "Palavra": "97c2308d",
+    "Enunciado": "PEIX_",
+    "Resposta": "E"
+  },
+  {
+    "ID": "3069b542",
+    "Palavra": "1984590f",
+    "Enunciado": "_NFANTIL",
+    "Resposta": "I"
+  },
+  {
+    "ID": "55849e7b",
+    "Palavra": "a3f52de4",
+    "Enunciado": "_NFLÁVEL",
+    "Resposta": "I"
+  },
+  {
+    "ID": "541c2c1d",
+    "Palavra": "6f686ffd",
+    "Enunciado": "_NFORMAÇÃO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "d3da921c",
+    "Palavra": "400bec64",
+    "Enunciado": "_GUANA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "21132c24",
+    "Palavra": "0e90d98c",
+    "Enunciado": "CH_NELO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "dc8ceaeb",
+    "Palavra": "64868fa4",
+    "Enunciado": "X_CARA",
+    "Resposta": "Í"
+  },
+  {
+    "ID": "384ec877",
+    "Palavra": "79e3b16c",
+    "Enunciado": "X_S",
+    "Resposta": "I"
+  },
+  {
+    "ID": "03a45d71",
+    "Palavra": "8fb92589",
+    "Enunciado": "CH_NCHILA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "72c9d5df",
+    "Palavra": "35652d75",
+    "Enunciado": "AV_ÃO",
+    "Resposta": "I"
+  },
+  {
+    "ID": "6fb00f72",
+    "Palavra": "043f814e",
+    "Enunciado": "CHE_RAR",
+    "Resposta": "I"
+  },
+  {
+    "ID": "7ba658ea",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CHE_O",
+    "Resposta": "I"
+  },
+  {
+    "ID": "6e28f810",
+    "Palavra": "878d791c",
+    "Enunciado": "CA_XA",
+    "Resposta": "I"
+  },
+  {
+    "ID": "2ebad39b",
+    "Palavra": "d019042a",
+    "Enunciado": "COREOGRAF_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "67ae8e17",
+    "Palavra": "19b14b3b",
+    "Enunciado": "LAVANDER_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "b2217948",
+    "Palavra": "b1e54622",
+    "Enunciado": "UNICÓRN_O",
+    "Resposta": "I"
+  },
+  {
+    "ID": "c21f4068",
+    "Palavra": "c0f7de5a",
+    "Enunciado": "FAMÍL_A",
+    "Resposta": "I"
+  },
+  {
+    "ID": "ff27ebba",
+    "Palavra": "1ae1e456",
+    "Enunciado": "_FENSA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "c4e1c774",
+    "Palavra": "58eaed01",
+    "Enunciado": "_CA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9cee9b5c",
+    "Palavra": "0a2554a8",
+    "Enunciado": "_RCA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "ea97ebfe",
+    "Palavra": "f166340e",
+    "Enunciado": "_FERTA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "3f4c68a3",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "B_LA",
+    "Resposta": "O"
+  },
+  {
+    "ID": "8dfa813c",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CH_CALHO",
+    "Resposta": "O"
+  },
+  {
+    "ID": "47c78cf4",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CH_COLATE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "b3fd1bb0",
+    "Palavra": "3cafc093",
+    "Enunciado": "D_MINÓ",
+    "Resposta": "O"
+  },
+  {
+    "ID": "2db7865a",
+    "Palavra": "032398fa",
+    "Enunciado": "AF_FAR",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9e29197d",
+    "Palavra": "76222800",
+    "Enunciado": "AF_GADO",
+    "Resposta": "O"
+  },
+  {
+    "ID": "8d2fbffb",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CHOC_LATE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "9dc8f2fd",
+    "Palavra": "0075e33a",
+    "Enunciado": "XAR_PE",
+    "Resposta": "O"
+  },
+  {
+    "ID": "e2203776",
+    "Palavra": "0788fb30",
+    "Enunciado": "FL_R",
+    "Resposta": "O"
+  },
+  {
+    "ID": "affee7db",
+    "Palavra": "bb983828",
+    "Enunciado": "PROFESS_R",
+    "Resposta": "O"
+  },
+  {
+    "ID": "2fb51588",
+    "Palavra": "e8a94284",
+    "Enunciado": "TROC_",
+    "Resposta": "O"
+  },
+  {
+    "ID": "5be6371d",
+    "Palavra": "cca4f43f",
+    "Enunciado": "CHEI_",
+    "Resposta": "O"
+  },
+  {
+    "ID": "3d26f9e2",
+    "Palavra": "a8bf2f36",
+    "Enunciado": "_NHA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "c5acdad5",
+    "Palavra": "9897d566",
+    "Enunciado": "_NIFORME",
+    "Resposta": "U"
+  },
+  {
+    "ID": "a2011d46",
+    "Palavra": "b1e54622",
+    "Enunciado": "_NICÓRNIO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "e5f9a010",
+    "Palavra": "8df351b3",
+    "Enunciado": "_RUBU",
+    "Resposta": "U"
+  },
+  {
+    "ID": "1d8859aa",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CH_VA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "3f20557f",
+    "Palavra": "3057408f",
+    "Enunciado": "CH_VEIRO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "d76fbd72",
+    "Palavra": "c583af95",
+    "Enunciado": "CH_PETA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "c17a5fa2",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CH_RRASCO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "9d122f3c",
+    "Palavra": "b1373ea7",
+    "Enunciado": "AG_LHA",
+    "Resposta": "U"
+  },
+  {
+    "ID": "af0bfa45",
+    "Palavra": "eb520f94",
+    "Enunciado": "AZ_LEJO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "eaa40bf5",
+    "Palavra": "c0add2b7",
+    "Enunciado": "MACH_CADO",
+    "Resposta": "U"
+  },
+  {
+    "ID": "2355d86b",
+    "Palavra": "fafd19ae",
+    "Enunciado": "EST_FAR",
+    "Resposta": "U"
+  },
+  {
+    "ID": "bf41af58",
+    "Palavra": "c59db6d1",
+    "Enunciado": "CHUCH_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "6e1cc7a2",
+    "Palavra": "b4ad0a33",
+    "Enunciado": "TOF_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "af27d976",
+    "Palavra": "a57dc1fc",
+    "Enunciado": "CHAPÉ_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "3604f959",
+    "Palavra": "9cc04239",
+    "Enunciado": "XAMP_",
+    "Resposta": "U"
+  },
+  {
+    "ID": "b39b5989",
+    "Palavra": "b575ead5",
+    "Enunciado": "__QUIDIFICADOR",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "4400b625",
+    "Palavra": "53838456",
+    "Enunciado": "__GO",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "b74a7d23",
+    "Palavra": "b87ecf3f",
+    "Enunciado": "__NGUA",
+    "Resposta": "LÍ"
+  },
+  {
+    "ID": "b66207cb",
+    "Palavra": "a8d9176d",
+    "Enunciado": "__GUMES",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "d901ee3e",
+    "Palavra": "2059bcf1",
+    "Enunciado": "E__FANTE",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "36844174",
+    "Palavra": "a5bb4e24",
+    "Enunciado": "A__MENTOS",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "ec6dc305",
+    "Palavra": "d8aa294c",
+    "Enunciado": "A__CATE",
+    "Resposta": "LI"
+  },
+  {
+    "ID": "08ac0f0e",
+    "Palavra": "9d736e11",
+    "Enunciado": "A__GRIA",
+    "Resposta": "LE"
+  },
+  {
+    "ID": "9cedcea7",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "BO__",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "4c41b2ff",
+    "Palavra": "6d9c36d9",
+    "Enunciado": "CHU__",
+    "Resposta": "LÉ"
+  },
+  {
+    "ID": "e083d9ec",
+    "Palavra": "5806c58c",
+    "Enunciado": "JAU__",
+    "Resposta": "LA"
+  },
+  {
+    "ID": "994d9cc3",
+    "Palavra": "2ff2de64",
+    "Enunciado": "VIO___",
+    "Resposta": "LÃO"
+  },
+  {
+    "ID": "6404d261",
+    "Palavra": "84434433",
+    "Enunciado": "__XE",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "ea3ea1c4",
+    "Palavra": "97c2308d",
+    "Enunciado": "__IXE",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "769bf541",
+    "Palavra": "f1bc79c9",
+    "Enunciado": "__FOU",
+    "Resposta": "PI"
+  },
+  {
+    "ID": "3bb6683f",
+    "Palavra": "aa952115",
+    "Enunciado": "__LGA",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "1f313a12",
+    "Palavra": "c583af95",
+    "Enunciado": "CHU__TA",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "ecda5a96",
+    "Palavra": "72009258",
+    "Enunciado": "AS__RGO",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "417b30d2",
+    "Palavra": "d34e560a",
+    "Enunciado": "GUE__RDO",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "87525d6b",
+    "Palavra": "773194d6",
+    "Enunciado": "ES__NJA",
+    "Resposta": "PO"
+  },
+  {
+    "ID": "3263cca0",
+    "Palavra": "9cc04239",
+    "Enunciado": "XAM__",
+    "Resposta": "PU"
+  },
+  {
+    "ID": "85ecac5f",
+    "Palavra": "186af6b0",
+    "Enunciado": "LIM__",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "842eee1e",
+    "Palavra": "0075e33a",
+    "Enunciado": "XARO__",
+    "Resposta": "PE"
+  },
+  {
+    "ID": "03b2c058",
+    "Palavra": "00ecf92f",
+    "Enunciado": "GARU__",
+    "Resposta": "PA"
+  },
+  {
+    "ID": "8af16797",
+    "Palavra": "3e90ed96",
+    "Enunciado": "__CA",
+    "Resposta": "VA"
+  },
+  {
+    "ID": "a0f6df4f",
+    "Palavra": "73b78e2b",
+    "Enunciado": "__DRO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "3fd0dcdf",
+    "Palavra": "49ac8942",
+    "Enunciado": "__DRAÇA",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "7aedbf5d",
+    "Palavra": "e7a3b3d9",
+    "Enunciado": "__RE",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "d0ddb92c",
+    "Palavra": "35652d75",
+    "Enunciado": "A__ÃO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "84c58e61",
+    "Palavra": "e2ec96f2",
+    "Enunciado": "A__NTURA",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "47d1ba88",
+    "Palavra": "81587a83",
+    "Enunciado": "A__NTAL",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "554bd13b",
+    "Palavra": "267969f3",
+    "Enunciado": "A__SO",
+    "Resposta": "VI"
+  },
+  {
+    "ID": "59b00ea8",
+    "Palavra": "6fd1a502",
+    "Enunciado": "CHU__",
+    "Resposta": "VA"
+  },
+  {
+    "ID": "285f6681",
+    "Palavra": "4b27714a",
+    "Enunciado": "CHA__",
+    "Resposta": "VE"
+  },
+  {
+    "ID": "4c959b5c",
+    "Palavra": "99719e8f",
+    "Enunciado": "TRO___",
+    "Resposta": "VÃO"
+  },
+  {
+    "ID": "b53c23dd",
+    "Palavra": "22d74777",
+    "Enunciado": "CRA__",
+    "Resposta": "VO"
+  },
+  {
+    "ID": "9e697f87",
+    "Palavra": "3449f4c8",
+    "Enunciado": "__REFA",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "999b37c3",
+    "Palavra": "b4ad0a33",
+    "Enunciado": "__FU",
+    "Resposta": "TO"
+  },
+  {
+    "ID": "932592ec",
+    "Palavra": "0bb48434",
+    "Enunciado": "__LEFONE",
+    "Resposta": "TE"
+  },
+  {
+    "ID": "f634f020",
+    "Palavra": "8493af4d",
+    "Enunciado": "__GARELA",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "0f9ecf42",
+    "Palavra": "56daa673",
+    "Enunciado": "A__NGIR",
+    "Resposta": "TI"
+  },
+  {
+    "ID": "9f50cab6",
+    "Palavra": "3290d295",
+    "Enunciado": "U__NSÍLIO",
+    "Resposta": "TE"
+  },
+  {
+    "ID": "9d324d69",
+    "Palavra": "cbde2a6f",
+    "Enunciado": "A__VIDADE",
+    "Resposta": "TI"
+  },
+  {
+    "ID": "eba79d87",
+    "Palavra": "fafd19ae",
+    "Enunciado": "ES__FAR",
+    "Resposta": "TU"
+  },
+  {
+    "ID": "bd113920",
+    "Palavra": "97b42398",
+    "Enunciado": "FI__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "57f2c161",
+    "Palavra": "4294acf9",
+    "Enunciado": "FO__",
+    "Resposta": "TO"
+  },
+  {
+    "ID": "f6a7113e",
+    "Palavra": "8f80af90",
+    "Enunciado": "FES__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "bde50b42",
+    "Palavra": "c583af95",
+    "Enunciado": "CHUPE__",
+    "Resposta": "TA"
+  },
+  {
+    "ID": "f0bb9967",
+    "Palavra": "c0add2b7",
+    "Enunciado": "__CHUCADO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "365e4f4a",
+    "Palavra": "7a6725b5",
+    "Enunciado": "__CHADO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "e89cd3c0",
+    "Palavra": "3ba67219",
+    "Enunciado": "__XERICA",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "79492ff8",
+    "Palavra": "bc7d0d20",
+    "Enunciado": "__XILHÃO",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "44149d72",
+    "Palavra": "5227154b",
+    "Enunciado": "A__RGO",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "a20d3c4a",
+    "Palavra": "3e338a6a",
+    "Enunciado": "CHA__NÉ",
+    "Resposta": "MI"
+  },
+  {
+    "ID": "7ad0e312",
+    "Palavra": "3cafc093",
+    "Enunciado": "DO__NÓ",
+    "Resposta": "MI"
+  },
+  {
+    "ID": "b6ce2345",
+    "Palavra": "3f29aff9",
+    "Enunciado": "FU__ÇA",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "23ee9357",
+    "Palavra": "f7f6c2dd",
+    "Enunciado": "LES__",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "56c202b5",
+    "Palavra": "39de396d",
+    "Enunciado": "ENXA__",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "dccf7287",
+    "Palavra": "a8d9176d",
+    "Enunciado": "LEGU__S",
+    "Resposta": "ME"
+  },
+  {
+    "ID": "5ee37e31",
+    "Palavra": "ac363f5b",
+    "Enunciado": "ALGE__S",
+    "Resposta": "MA"
+  },
+  {
+    "ID": "452d8b9c",
+    "Palavra": "c78da1ba",
+    "Enunciado": "__CHADURA",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "9143fcad",
+    "Palavra": "5511b747",
+    "Enunciado": "__XINA",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "eff89ccf",
+    "Palavra": "9ac74973",
+    "Enunciado": "__CHADO",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "83529ab8",
+    "Palavra": "096ad43e",
+    "Enunciado": "__ROFA",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "4f67a1a3",
+    "Palavra": "032398fa",
+    "Enunciado": "A__FAR",
+    "Resposta": "FO"
+  },
+  {
+    "ID": "d11e238f",
+    "Palavra": "df2bd38c",
+    "Enunciado": "A__ADOS",
+    "Resposta": "FI"
+  },
+  {
+    "ID": "2cdf7372",
+    "Palavra": "1ae1e456",
+    "Enunciado": "O__NSA",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "dd461094",
+    "Palavra": "3dcb035a",
+    "Enunciado": "A__TO",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "ac30dde3",
+    "Palavra": "eb2dfaee",
+    "Enunciado": "SO__",
+    "Resposta": "FÁ"
+  },
+  {
+    "ID": "834d5d57",
+    "Palavra": "2f2f6940",
+    "Enunciado": "ALFA__",
+    "Resposta": "FA"
+  },
+  {
+    "ID": "e61fd85c",
+    "Palavra": "9e939fa0",
+    "Enunciado": "CHE__",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "547d5241",
+    "Palavra": "c81d93f3",
+    "Enunciado": "BI__",
+    "Resposta": "FE"
+  },
+  {
+    "ID": "24e69ae7",
+    "Palavra": "8a1bfd71",
+    "Enunciado": "__LA",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "6a31713b",
+    "Palavra": "a622ee95",
+    "Enunciado": "__CHOS",
+    "Resposta": "BI"
+  },
+  {
+    "ID": "bce7b202",
+    "Palavra": "c81d93f3",
+    "Enunciado": "__FE",
+    "Resposta": "BI"
+  },
+  {
+    "ID": "87c3ed7d",
+    "Palavra": "47594ea1",
+    "Enunciado": "__RRIFAR",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "be7cb543",
+    "Palavra": "83e07a80",
+    "Enunciado": "A__JUR",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "54fb26b8",
+    "Palavra": "d0bd9390",
+    "Enunciado": "A__CAXI",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "be311d58",
+    "Palavra": "65141544",
+    "Enunciado": "JA__TI",
+    "Resposta": "BU"
+  },
+  {
+    "ID": "35107663",
+    "Palavra": "dd4b5f42",
+    "Enunciado": "JA__TICABA",
+    "Resposta": "BU"
+  },
+  {
+    "ID": "024267ac",
+    "Palavra": "384c199a",
+    "Enunciado": "LAM__R",
+    "Resposta": "BE"
+  },
+  {
+    "ID": "4c0e1be4",
+    "Palavra": "440930aa",
+    "Enunciado": "GOIA__",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "3cf6b3bb",
+    "Palavra": "dd4b5f42",
+    "Enunciado": "JABUTICA__",
+    "Resposta": "BA"
+  },
+  {
+    "ID": "7bc97a29",
+    "Palavra": "bd5c5d37",
+    "Enunciado": "CACHIM__",
+    "Resposta": "BO"
+  },
+  {
+    "ID": "ae47e696",
+    "Palavra": "55b65411",
+    "Enunciado": "__JA",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "80ff8b97",
+    "Palavra": "a3609fc6",
+    "Enunciado": "__NJAS",
+    "Resposta": "NI"
+  },
+  {
+    "ID": "c6482ff3",
+    "Palavra": "ac9b7d54",
+    "Enunciado": "__VE",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "b62ef673",
+    "Palavra": "657ae3fd",
+    "Enunciado": "__VIO",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "541acfb9",
+    "Palavra": "0e90d98c",
+    "Enunciado": "CHI__LO",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "b875254d",
+    "Palavra": "19a5746c",
+    "Enunciado": "DI__SSAURO",
+    "Resposta": "NO"
+  },
+  {
+    "ID": "f3d2005e",
+    "Palavra": "03e5e7df",
+    "Enunciado": "JA__LA",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "1bd0101d",
+    "Palavra": "2b27cab3",
+    "Enunciado": "DA__NE",
+    "Resposta": "NO"
+  },
+  {
+    "ID": "54637023",
+    "Palavra": "3e338a6a",
+    "Enunciado": "CHAMI__",
+    "Resposta": "NÉ"
+  },
+  {
+    "ID": "a8597f61",
+    "Palavra": "5511b747",
+    "Enunciado": "FAXI__",
+    "Resposta": "NA"
+  },
+  {
+    "ID": "63590d98",
+    "Palavra": "3cafc093",
+    "Enunciado": "DOMI__",
+    "Resposta": "NÓ"
+  },
+  {
+    "ID": "1313d091",
+    "Palavra": "2b27cab3",
+    "Enunciado": "DANO__",
+    "Resposta": "NE"
+  },
+  {
+    "ID": "58b56690",
+    "Palavra": "bb88002d",
+    "Enunciado": "__DO",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "3a3116ca",
+    "Palavra": "5534eb40",
+    "Enunciado": "__DO",
+    "Resposta": "DE"
+  },
+  {
+    "ID": "550dbb8b",
+    "Palavra": "19a5746c",
+    "Enunciado": "__NOSSAURO",
+    "Resposta": "DI"
+  },
+  {
+    "ID": "7a6e4883",
+    "Palavra": "3cafc093",
+    "Enunciado": "__MINÓ",
+    "Resposta": "DO"
+  },
+  {
+    "ID": "51cde438",
+    "Palavra": "20b68ecc",
+    "Enunciado": "GOR__RA",
+    "Resposta": "DU"
+  },
+  {
+    "ID": "21284a4b",
+    "Palavra": "c78da1ba",
+    "Enunciado": "FECHA__RA",
+    "Resposta": "DU"
+  },
+  {
+    "ID": "91a449d1",
+    "Palavra": "7f3e399b",
+    "Enunciado": "DIFICUL__DE",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "f5d1ca35",
+    "Palavra": "ef6d6d8b",
+    "Enunciado": "VELOCI__DE",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "b717d6f2",
+    "Palavra": "c51c3529",
+    "Enunciado": "JAR__M",
+    "Resposta": "DI"
+  },
+  {
+    "ID": "18281012",
+    "Palavra": "e4300963",
+    "Enunciado": "LIN__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "77bb573c",
+    "Palavra": "654301cb",
+    "Enunciado": "CHEGA__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "c02b6fbe",
+    "Palavra": "4a11be8d",
+    "Enunciado": "ENXA__",
+    "Resposta": "DA"
+  },
+  {
+    "ID": "b7e64daa",
+    "Palavra": "878d791c",
+    "Enunciado": "__IXA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "4ccf6101",
+    "Palavra": "bd5c5d37",
+    "Enunciado": "__CHIMBO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "5d4d6aa9",
+    "Palavra": "b829ec4d",
+    "Enunciado": "__CHOEIRA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "dd790d01",
+    "Palavra": "6613634b",
+    "Enunciado": "__CHORRO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "deb2e4b4",
+    "Palavra": "64868fa4",
+    "Enunciado": "XI__RA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "ee3095fd",
+    "Palavra": "6d2ac81f",
+    "Enunciado": "CHO__LHO",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "b04ca2fe",
+    "Palavra": "e68c22d4",
+    "Enunciado": "CHO__LATE",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "9a5329a6",
+    "Palavra": "754f1860",
+    "Enunciado": "DES__RGA",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "0ebe01c0",
+    "Palavra": "775cd6ef",
+    "Enunciado": "DIS__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "ab79939f",
+    "Palavra": "422ef04d",
+    "Enunciado": "CAS__",
+    "Resposta": "CA"
+  },
+  {
+    "ID": "d03024c7",
+    "Palavra": "5fd9b43d",
+    "Enunciado": "CIN__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "cadbf7db",
+    "Palavra": "73756425",
+    "Enunciado": "MÁGI__",
+    "Resposta": "CO"
+  },
+  {
+    "ID": "fba15e66",
+    "Palavra": "7d17669f",
+    "Enunciado": "__CHEIO",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "7954f7c7",
+    "Palavra": "256a6868",
+    "Enunciado": "__SBIFE",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "a9414850",
+    "Palavra": "ccc64cb3",
+    "Enunciado": "__NGUE",
+    "Resposta": "RI"
+  },
+  {
+    "ID": "3bcaa58c",
+    "Palavra": "949d9701",
+    "Enunciado": "__GUA",
+    "Resposta": "RÉ"
+  },
+  {
+    "ID": "acd4384a",
+    "Palavra": "568c91d9",
+    "Enunciado": "A___NJO",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "fdd6f45e",
+    "Palavra": "3c45b75d",
+    "Enunciado": "CHU___SCO",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "f7b5af09",
+    "Palavra": "98dff104",
+    "Enunciado": "GA___FA",
+    "Resposta": "RRA"
+  },
+  {
+    "ID": "615b8a3b",
+    "Palavra": "47594ea1",
+    "Enunciado": "BO___FAR",
+    "Resposta": "RRI"
+  },
+  {
+    "ID": "9110c2c8",
+    "Palavra": "29336b23",
+    "Enunciado": "FE___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "c5263fe3",
+    "Palavra": "9fe8c27a",
+    "Enunciado": "GO___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "e0db7504",
+    "Palavra": "6613634b",
+    "Enunciado": "CACHO___",
+    "Resposta": "RRO"
+  },
+  {
+    "ID": "f5e08b8c",
+    "Palavra": "dc2f293e",
+    "Enunciado": "MACA____",
+    "Resposta": "RRÃO"
+  },
+  {
+    "ID": "b5ff1174",
+    "Palavra": "246f5bc1",
+    "Enunciado": "__RFO",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "6fef5381",
+    "Palavra": "b2c3d387",
+    "Enunciado": "__TO",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "c18d1eca",
+    "Palavra": "9fe8c27a",
+    "Enunciado": "__RRO",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "73015441",
+    "Palavra": "b4699007",
+    "Enunciado": "__RILA",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "b5460875",
+    "Palavra": "589c8a3d",
+    "Enunciado": "A__CHAR",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "65be851b",
+    "Palavra": "b1373ea7",
+    "Enunciado": "A__LHA",
+    "Resposta": "GU"
+  },
+  {
+    "ID": "7b9b6974",
+    "Palavra": "654301cb",
+    "Enunciado": "CHE__DA",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "4a5aa32e",
+    "Palavra": "2f88f7a6",
+    "Enunciado": "RE__DOR",
+    "Resposta": "GA"
+  },
+  {
+    "ID": "c0b6606f",
+    "Palavra": "87ff01af",
+    "Enunciado": "FO___",
+    "Resposta": "GÃO"
+  },
+  {
+    "ID": "2d8e071f",
+    "Palavra": "1c67e79b",
+    "Enunciado": "FI__S",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "eb7e14fe",
+    "Palavra": "2e728b53",
+    "Enunciado": "FO__",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "5ff88541",
+    "Palavra": "53838456",
+    "Enunciado": "LA__",
+    "Resposta": "GO"
+  },
+  {
+    "ID": "b90f6709",
+    "Palavra": "fb1cf7a5",
+    "Enunciado": "A__RA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "26b8c7e4",
+    "Palavra": "1966a1a8",
+    "Enunciado": "A__NHA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "6072eae1",
+    "Palavra": "8df351b3",
+    "Enunciado": "U__BU",
+    "Resposta": "RU"
+  },
+  {
+    "ID": "5921b3c7",
+    "Palavra": "38dfc1ed",
+    "Enunciado": "O__",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "70729b83",
+    "Palavra": "0075e33a",
+    "Enunciado": "XA__PE",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "60dace6d",
+    "Palavra": "57eda258",
+    "Enunciado": "XE__FE",
+    "Resposta": "RI"
+  },
+  {
+    "ID": "c9ba6cd9",
+    "Palavra": "3449f4c8",
+    "Enunciado": "TA__FA",
+    "Resposta": "RE"
+  },
+  {
+    "ID": "a9957eb7",
+    "Palavra": "d43764bf",
+    "Enunciado": "GI__FA",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "3ca2b929",
+    "Palavra": "fb1cf7a5",
+    "Enunciado": "ARA__",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "2396e4a7",
+    "Palavra": "72ba3b86",
+    "Enunciado": "CHEI__",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "98bb9aff",
+    "Palavra": "64868fa4",
+    "Enunciado": "XÍCA__",
+    "Resposta": "RA"
+  },
+  {
+    "ID": "e9b1f89b",
+    "Palavra": "3057408f",
+    "Enunciado": "CHUVEI__",
+    "Resposta": "RO"
+  },
+  {
+    "ID": "3a2983fb",
+    "Palavra": "946344de",
+    "Enunciado": "__GO",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "fdf3e83b",
+    "Palavra": "0b463aa4",
+    "Enunciado": "__GADOR",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "c3c532e4",
+    "Palavra": "f81a1bb8",
+    "Enunciado": "__RRA",
+    "Resposta": "JA"
+  },
+  {
+    "ID": "2f266ed0",
+    "Palavra": "8ae31d07",
+    "Enunciado": "__RNAL",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "601e34be",
+    "Palavra": "5eef270a",
+    "Enunciado": "MAN__RICÃO",
+    "Resposta": "JE"
+  },
+  {
+    "ID": "51ed34d2",
+    "Palavra": "5455fad9",
+    "Enunciado": "BERIN__LA",
+    "Resposta": "JE"
+  },
+  {
+    "ID": "d7952ca9",
+    "Palavra": "c205f6cd",
+    "Enunciado": "CAN__CA",
+    "Resposta": "JI"
+  },
+  {
+    "ID": "691e6ff6",
+    "Palavra": "8c23e40e",
+    "Enunciado": "SO__",
+    "Resposta": "JA"
+  },
+  {
+    "ID": "7e411e14",
+    "Palavra": "34b7fb79",
+    "Enunciado": "SU__",
+    "Resposta": "JO"
+  },
+  {
+    "ID": "58b3c823",
+    "Palavra": "c417d37f",
+    "Enunciado": "FEI___",
+    "Resposta": "JÃO"
+  },
+  {
+    "ID": "3109ac3c",
+    "Palavra": "83e07a80",
+    "Enunciado": "ABA__R",
+    "Resposta": "JU"
+  },
+  {
+    "ID": "024fd6e6",
+    "Palavra": "eb2dfaee",
+    "Enunciado": "__FÁ",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "d5dfc694",
+    "Palavra": "8c23e40e",
+    "Enunciado": "__JA",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "2983fb65",
+    "Palavra": "34b7fb79",
+    "Enunciado": "__JO",
+    "Resposta": "SU"
+  },
+  {
+    "ID": "a0b453ab",
+    "Palavra": "648c2872",
+    "Enunciado": "__CO",
+    "Resposta": "SA"
+  },
+  {
+    "ID": "05166c96",
+    "Palavra": "3e440dc2",
+    "Enunciado": "A___STIR",
+    "Resposta": "SSI"
+  },
+  {
+    "ID": "6cfe01ad",
+    "Palavra": "9686a76e",
+    "Enunciado": "A___PRAR",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "afa5a51d",
+    "Palavra": "3063d04c",
+    "Enunciado": "MA___GEM",
+    "Resposta": "SSA"
+  },
+  {
+    "ID": "ed1cbcd7",
+    "Palavra": "2c40461c",
+    "Enunciado": "VA___URA",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "9c5c8546",
+    "Palavra": "6368e6c3",
+    "Enunciado": "GAN__",
+    "Resposta": "SO"
+  },
+  {
+    "ID": "7cb67fac",
+    "Palavra": "1ae1e456",
+    "Enunciado": "OFEN__",
+    "Resposta": "SA"
+  },
+  {
+    "ID": "08cb6260",
+    "Palavra": "bb983828",
+    "Enunciado": "PROFE___R",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "684390bc",
+    "Palavra": "f82e9ef6",
+    "Enunciado": "GE___",
+    "Resposta": "SSO"
+  },
+  {
+    "ID": "a025bcf2",
+    "Palavra": "64868fa4",
+    "Enunciado": "__CARA",
+    "Resposta": "XÍ"
+  },
+  {
+    "ID": "6338bfe4",
+    "Palavra": "0df05fb3",
+    "Enunciado": "__DREZ",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "4657bc00",
+    "Palavra": "0075e33a",
+    "Enunciado": "__ROPE",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "1805bf93",
+    "Palavra": "57eda258",
+    "Enunciado": "__RIFE",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "9f7758f0",
+    "Palavra": "4a11be8d",
+    "Enunciado": "EN__DA",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "0d2dea6b",
+    "Palavra": "39de396d",
+    "Enunciado": "EN__ME",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "a267614a",
+    "Palavra": "5511b747",
+    "Enunciado": "FA__NA",
+    "Resposta": "XI"
+  },
+  {
+    "ID": "8a30e699",
+    "Palavra": "3ba67219",
+    "Enunciado": "ME__RICA",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "d8f7c9a5",
+    "Palavra": "878d791c",
+    "Enunciado": "CAI__",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "e3364485",
+    "Palavra": "090b892e",
+    "Enunciado": "QUEI__",
+    "Resposta": "XO"
+  },
+  {
+    "ID": "15b29823",
+    "Palavra": "97c2308d",
+    "Enunciado": "PEI__",
+    "Resposta": "XE"
+  },
+  {
+    "ID": "663be421",
+    "Palavra": "61fb860f",
+    "Enunciado": "BRU__",
+    "Resposta": "XA"
+  },
+  {
+    "ID": "2518940e",
+    "Palavra": "7ff710f2",
+    "Enunciado": "__JE",
+    "Resposta": "HO"
+  },
+  {
+    "ID": "a8f9f775",
+    "Palavra": "e93a2d12",
+    "Enunciado": "__LICÓPTERO",
+    "Resposta": "HE"
+  },
+  {
+    "ID": "84ac7c03",
+    "Palavra": "7f5fc194",
+    "Enunciado": "__RTA",
+    "Resposta": "HO"
+  },
+  {
+    "ID": "5ca658ac",
+    "Palavra": "4e7700a8",
+    "Enunciado": "__STÓRIA",
+    "Resposta": "HI"
+  },
+  {
+    "ID": "07ffff73",
+    "Palavra": "0788fb30",
+    "Enunciado": "___R",
+    "Resposta": "FLO"
+  },
+  {
+    "ID": "55a49744",
+    "Palavra": "38c6f2e1",
+    "Enunciado": "___MINGO",
+    "Resposta": "FLA"
+  },
+  {
+    "ID": "e4741502",
+    "Palavra": "8a82c646",
+    "Enunciado": "___UTA",
+    "Resposta": "FLA"
+  },
+  {
+    "ID": "53990a7b",
+    "Palavra": "f8013b95",
+    "Enunciado": "___RESTA",
+    "Resposta": "FLO"
+  },
+  {
+    "ID": "d6e4f310",
+    "Palavra": "04707b2c",
+    "Enunciado": "CHI___TE",
+    "Resposta": "CLE"
+  },
+  {
+    "ID": "3550aeef",
+    "Palavra": "38355f81",
+    "Enunciado": "BI___OTECA",
+    "Resposta": "BLI"
+  },
+  {
+    "ID": "7f51e3f2",
+    "Palavra": "76972b5e",
+    "Enunciado": "DI___MA",
+    "Resposta": "PLO"
+  },
+  {
+    "ID": "207522b0",
+    "Palavra": "a3f52de4",
+    "Enunciado": "IN___VEL",
+    "Resposta": "FLÁ"
+  },
+  {
+    "ID": "ad370e48",
+    "Palavra": "b14b2b4a",
+    "Enunciado": "I___",
+    "Resposta": "GLU"
+  },
+  {
+    "ID": "84a54d5c",
+    "Palavra": "9931d55e",
+    "Enunciado": "___FA",
+    "Resposta": "TRU"
+  },
+  {
+    "ID": "9ae961ff",
+    "Palavra": "bb983828",
+    "Enunciado": "___FESSOR",
+    "Resposta": "PRO"
+  },
+  {
+    "ID": "19babdf0",
+    "Palavra": "fbff48b6",
+    "Enunciado": "___NGO",
+    "Resposta": "FRA"
+  },
+  {
+    "ID": "30c7b622",
+    "Palavra": "6480f568",
+    "Enunciado": "___ÂNGULO",
+    "Resposta": "TRI"
+  },
+  {
+    "ID": "d0d7fafe",
+    "Palavra": "da1a828d",
+    "Enunciado": "I___JA",
+    "Resposta": "GRE"
+  },
+  {
+    "ID": "48a3825f",
+    "Palavra": "9eecd71a",
+    "Enunciado": "A___L",
+    "Resposta": "BRI"
+  },
+  {
+    "ID": "beaa040f",
+    "Palavra": "e1f913a1",
+    "Enunciado": "E___DOM",
+    "Resposta": "DRE"
+  },
+  {
+    "ID": "b704426b",
+    "Palavra": "57b3f7d5",
+    "Enunciado": "A___ÃO",
+    "Resposta": "GRI"
+  },
+  {
+    "ID": "edf64fad",
+    "Palavra": "0df05fb3",
+    "Enunciado": "XA___Z",
+    "Resposta": "DRE"
+  },
+  {
+    "ID": "41cd7957",
+    "Palavra": "405e44d3",
+    "Enunciado": "CHI___",
+    "Resposta": "FRE"
+  },
+  {
+    "ID": "82e665d4",
+    "Palavra": "592878c8",
+    "Enunciado": "CO___",
+    "Resposta": "BRA"
+  },
+  {
+    "ID": "5c104fa0",
+    "Palavra": "03de0cc8",
+    "Enunciado": "LI___",
+    "Resposta": "VRO"
+  },
+  {
+    "ID": "806bf37f",
+    "Palavra": "0a2554a8",
+    "Enunciado": "__CA",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "31d3b4c0",
+    "Palavra": "5fcd4aec",
+    "Enunciado": "__CO",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "115c41d0",
+    "Palavra": "cfe26e5a",
+    "Enunciado": "__VORE",
+    "Resposta": "ÁR"
+  },
+  {
+    "ID": "ac7deb32",
+    "Palavra": "b4ffb167",
+    "Enunciado": "__VILHA",
+    "Resposta": "ER"
+  },
+  {
+    "ID": "142f7de8",
+    "Palavra": "246f5bc1",
+    "Enunciado": "G__FO",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "cc0103b6",
+    "Palavra": "587b8a99",
+    "Enunciado": "F__MIGA",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "303eb099",
+    "Palavra": "375aee4e",
+    "Enunciado": "S__FISTA",
+    "Resposta": "UR"
+  },
+  {
+    "ID": "031c0ba1",
+    "Palavra": "470f4de6",
+    "Enunciado": "G__ÇA",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "d0549ed0",
+    "Palavra": "0788fb30",
+    "Enunciado": "FL__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "326a7b12",
+    "Palavra": "fcc77088",
+    "Enunciado": "AM__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "aef16a41",
+    "Palavra": "68f2eef5",
+    "Enunciado": "SU__",
+    "Resposta": "OR"
+  },
+  {
+    "ID": "53f4d821",
+    "Palavra": "9f2ccd46",
+    "Enunciado": "VO__",
+    "Resposta": "AR"
+  },
+  {
+    "ID": "3f7b65e7",
+    "Palavra": "35652d75",
+    "Enunciado": "AVI__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "d81e9eb7",
+    "Palavra": "87ff01af",
+    "Enunciado": "FOG__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "b0deaf38",
+    "Palavra": "73666562",
+    "Enunciado": "LIM__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "da69f11a",
+    "Palavra": "175f83f7",
+    "Enunciado": "SAB__",
+    "Resposta": "ÃO"
+  },
+  {
+    "ID": "26325518",
+    "Palavra": "9dd8cc2c",
+    "Enunciado": "__BRA",
+    "Resposta": "ZE"
+  },
+  {
+    "ID": "2ea0856c",
+    "Palavra": "9794ee4a",
+    "Enunciado": "__GUEIRO",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "4ce1a5ae",
+    "Palavra": "eb520f94",
+    "Enunciado": "A__LEJO",
+    "Resposta": "ZU"
+  },
+  {
+    "ID": "93aabc04",
+    "Palavra": "ca040125",
+    "Enunciado": "FA__NDA",
+    "Resposta": "ZE"
+  },
+  {
+    "ID": "bc51d63f",
+    "Palavra": "50919bb8",
+    "Enunciado": "GUI__",
+    "Resposta": "ZO"
+  },
+  {
+    "ID": "8ea678f7",
+    "Palavra": "f2358e2e",
+    "Enunciado": "RIQUE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "90ea625f",
+    "Palavra": "649a1eae",
+    "Enunciado": "DURE__",
+    "Resposta": "ZA"
+  },
+  {
+    "ID": "6c91e8ca",
+    "Palavra": "57c2c7fc",
+    "Enunciado": "LIMPE__",
+    "Resposta": "ZA"
+  }
+]
