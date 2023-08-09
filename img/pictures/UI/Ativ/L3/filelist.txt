@@ -1,2 +1,0 @@
-["BLI", "BRA", "BRI", "CLE", "DRE", "FLA", "FLÁ", "FLO", "FRA", "FRE", "GÃO", "GLU", "GRE", "GRI", "JÃO", "LÃO", "PLO", "PRO", "RRA", "RRI", "RRO", "SSA", "SSI", "SSO", "TRI", "TRU", "VÃO", "VRO"]
-
