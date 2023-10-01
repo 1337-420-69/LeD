@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
-        "title": "Ilumina & Educa v1",
+        "title": "Ilumina & Educa ABC",
         "width": 384,
         "height": 624,
         "position": "center",
